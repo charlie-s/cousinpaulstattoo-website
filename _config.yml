@@ -2,9 +2,6 @@
 title: Cousin Paul
 timezone: UTC
 collections:
-  artists:
-    title: Artists
-    output: true
   posts:
     title: Posts
     output: true
