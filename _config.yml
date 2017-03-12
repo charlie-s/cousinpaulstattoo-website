@@ -2,11 +2,11 @@
 title: Cousin Paul
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   artists:
     title: Artists
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
@@ -18,12 +18,12 @@ defaults:
   values:
     layout: page
 - scope:
-    path: 'blog'
+    path: blog
     type: posts
   values:
     layout: post
 - scope:
-    path: 'artist'
+    path: artist
     type: artists
   values:
     layout: artist
