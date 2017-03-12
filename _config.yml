@@ -3,7 +3,6 @@ title: Cousin Paul
 timezone: UTC
 collections:
   artists:
-    title: Artists
     output: true
   posts:
     title: Posts
@@ -23,8 +22,8 @@ defaults:
   values:
     layout: post
 - scope:
-    path: artist
-    type: artists
+    path: ""
+    type: "artists"
   values:
-    layout: artist
+    layout: "artist"
 permalink: pretty
