@@ -5,19 +5,26 @@ collections:
   posts:
     title: Posts
     output: true
+  artists:
+    title: Artists
+    output: true
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
     type: pages
   values:
     layout: page
+- scope:
+    path: 'blog'
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: 'artist'
+    type: artists
+  values:
+    layout: artist
 permalink: pretty
