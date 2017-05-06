@@ -6,6 +6,8 @@ collections:
     title: Artists
     output: true
     Artist Title: Artist
+    Portfolio Images:
+    - 
   posts:
     title: Posts
     output: true
