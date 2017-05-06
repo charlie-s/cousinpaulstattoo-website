@@ -3,6 +3,8 @@
     background-color: #22374a;
     background-image: url('/asset/img/full-width/splash-darker.jpg');
     background-size: cover;
+    color: #fff;
+    font-size: 18px;
     height: 300px;
     position: relative;
     z-index: 2;
@@ -19,7 +21,6 @@
         a {
             cursor: pointer;
             display: inline-block;
-            font-size: 18px;
             padding: 12px 4px;
         }
 
@@ -59,10 +60,10 @@
     .splash-logo {
         left: 0;
         position: absolute;
-        top: 48px;
+        top: 200px;
         width: 100%;
         img {
-            width: 340px;
+            width: 364px;
         }
         a {
             text-decoration: none;
@@ -70,16 +71,16 @@
         }
     }
 
-}
+    &.splash-video-height {
+        height: 420px;
 
-body.front .splash {
-    height: 420px;
-
-    .splash-logo {
-        top: 66px;
-        img {
-            width: 450px;
-            max-width: 100%;
+        .splash-logo {
+            top: 318px;
+            img {
+                width: 364px;
+                max-width: 100%;
+            }
         }
     }
+
 }
