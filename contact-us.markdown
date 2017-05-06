@@ -8,10 +8,7 @@ Email Block: |-
   Greg: gregtattoos314@gmail.com
 ---
 
-EMAIL US
-CousinPaulsTattoo@gmail.com
-Laura: boraboralaura@ymail.com
-Greg: gregtattoos314@gmail.com
+We're located at Devonshire Avenue in the Hampshire Building, down the stairs on the bottom floor. Walk-ins are welcome on Sundays from x-x. For a consultation, call the numbers listed below.
 
 CALL US
 Studio: (314) 875-9075
@@ -21,4 +18,3 @@ VISIT US
 4530 Hampton Ave
 St. Louis, MO 63109
 
-We're located at Devonshire Avenue in the Hampshire Building, down the stairs on the bottom floor.
