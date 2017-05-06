@@ -31,10 +31,10 @@ defaults:
   values:
     layout: artist
     Artist Title: Artist
-    Email:
-    Hours:
+    Email: 
+    Hours: 
     Portfolio Images:
-    -
+    - 
 permalink: pretty
 exclude:
 - Gemfile
