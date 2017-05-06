@@ -29,6 +29,6 @@ defaults:
     layout: artist
 permalink: pretty
 exclude:
- - Gemfile
- - Gemfile.lock
- - README.md
+- Gemfile
+- Gemfile.lock
+- README.md

@@ -1,6 +1,6 @@
 ---
 title: Artists
-date: 2017-03-05 23:49:00 Z
+date: 2017-03-05 17:49:00 -06:00
 permalink: "/artists"
 ---
 
