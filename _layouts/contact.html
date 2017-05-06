@@ -16,17 +16,17 @@ layout: default
     <div class="row">
         <div class="col-12 col-sm-6 col-md-4 offset-md-2 text-center">
             <h3>Email Us</h3>
-            {{page['Email Excerpt'] | markdownify}}
+            {{page['Email Excerpt'] | markdownify | newline_to_br}}
         </div>
         <div class="col-12 col-sm-6 col-md-4 text-center">
             <h3>Call Us</h3>
-            {{page['Call Excerpt'] | markdownify}}
+            {{page['Call Excerpt'] | markdownify | newline_to_br}}
         </div>
     </div>
     <div class="row">
         <div class="col-12 col-sm-6 offset-sm-3 col-md-4 offset-md-4 text-center">
             <h3>Visit Us</h3>
-            {{page['Visit Excerpt'] | markdownify}}
+            {{page['Visit Excerpt'] | markdownify | newline_to_br}}
         </div>
     </div>
 

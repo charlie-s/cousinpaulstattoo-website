@@ -59,10 +59,12 @@
 
     .splash-logo {
         left: 0;
-        position: relative;
+        position: absolute;
         top: 200px;
         width: 364px;
         margin: 0 auto;
+        left: 50%;
+        margin-left: -182px;
         img {
             width: 364px;
         }
@@ -79,7 +81,6 @@
             top: 318px;
             img {
                 width: 364px;
-                max-width: 100%;
             }
         }
     }
