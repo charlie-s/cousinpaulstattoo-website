@@ -1,5 +1,5 @@
 ---
-title: About Cousin Paul's
+title: Our Story
 date: 2017-03-05 17:49:00 -06:00
 permalink: "/"
 layout: about
