@@ -7,7 +7,7 @@ collections:
     output: true
     Artist Title: Artist
     Portfolio Images:
-    -
+    - 
   posts:
     title: Posts
     output: true
@@ -31,10 +31,10 @@ defaults:
   values:
     layout: artist
     Artist Title: Artist
-    Email:
-    Hours Excerpt:
+    Email: 
+    Hours Excerpt: 
     Portfolio Images:
-    -
+    - 
 permalink: pretty
 exclude:
 - Gemfile
