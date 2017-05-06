@@ -5,4 +5,3 @@ permalink: "/artists"
 layout: artists
 ---
 
-Our artists.
