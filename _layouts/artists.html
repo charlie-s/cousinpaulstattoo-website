@@ -2,9 +2,39 @@
 layout: default
 ---
 
-{{content}}
+<div class="container">
 
-{% for artist in site.artists %}
-    <hr />
-    {{artist.content}}
-{% endfor %}
+    <div class="row">
+        <div class="col-12 text-center">
+            <h1>Artists</h1>
+            <div class="mt-4">
+                {{content}}
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            {% for artist in site.artists %}
+                <div class="row mt-5">
+                    <div class="col-12 col-sm-4 text-right xs-text-center">
+                        <h2>{{artist.title}}</h2>
+                        <h3>{{artist['Artist Title']}}</h3>
+                    </div>
+                    <div class="col-12 col-sm-8">
+                        {{artist.content}}
+                        <div class="row">
+                            <div class="col-12 col-sm-6 mt-4">
+                                <a class="btn btn-sm btn-primary btn-block" href="{{artist.url}}">Hours &amp; Contact Info</a>
+                            </div>
+                            <div class="col-12 col-sm-6 mt-4">
+                                <a class="btn btn-sm btn-default btn-block" href="{{artist.url}}">Portfolio</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
