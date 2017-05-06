@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{{content}}
+
+{% for artist in site.artists %}
+    <hr />
+    {{artist.content}}
+{% endfor %}

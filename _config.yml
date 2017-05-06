@@ -31,4 +31,6 @@ permalink: pretty
 exclude:
 - Gemfile
 - Gemfile.lock
+- node_modules
+- package.json
 - README.md

@@ -7,17 +7,17 @@ layout: default
     <div class="row">
         <div class="col-12 col-sm-6 col-md-4 offset-md-2 text-center">
             <h3>Email Us</h3>
-            {{page['Email Block']}}
+            {{page['Email Excerpt'] | markdownify}}
         </div>
         <div class="col-12 col-sm-6 col-md-4 text-center">
             <h3>Call Us</h3>
-            {{page['Call Block']}}
+            {{page['Call Excerpt'] | markdownify}}
         </div>
     </div>
     <div class="row">
         <div class="col-12 col-sm-6 offset-sm-3 col-md-4 offset-md-4 text-center">
             <h3>Visit Us</h3>
-            {{page['Visit Block']}}
+            {{page['Visit Excerpt'] | markdownify}}
         </div>
     </div>
 
