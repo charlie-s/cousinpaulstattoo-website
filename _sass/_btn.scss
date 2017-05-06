@@ -1,0 +1,45 @@
+.btn {
+    border-radius: 0px;
+    text-transform: uppercase;
+    transition: all 200ms ease;
+}
+
+.btn:hover {
+    transition: all 200ms ease;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus,
+.btn-primary:visited,
+.btn-primary:visited:focus {
+    background-color: #005e9f;
+    border-color: #005e9f;
+    color: #fff !important;
+}
+
+.btn-primary:hover,
+.btn-primary:active:hover {
+    background-color: #00406d;
+    border-color: #00406d;
+    color: #fff !important;
+}
+
+.btn-default,
+.btn-default:active,
+.btn-default:focus,
+.btn-default:active:focus,
+.btn-default:visited,
+.btn-default:visited:focus {
+    background-color: #fff;
+    border-color: #005e9f;
+    color: #005e9f !important;
+}
+
+.btn-default:hover,
+.btn-default:active:hover {
+    background-color: #daf0ff;
+    border-color: #005e9f;
+    color: #005e9f !important;
+}

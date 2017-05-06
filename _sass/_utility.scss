@@ -1,0 +1,26 @@
+.inline {
+    display: inline;
+}
+
+.xs-text-left {
+    @media only screen and (max-width: 767px) {
+        text-align: left;
+    }
+}
+
+.xs-text-center {
+    @media only screen and (max-width: 767px) {
+        text-align: center;
+    }
+}
+
+.xs-text-right {
+    @media only screen and (max-width: 767px) {
+        text-align: right;
+    }
+}
+
+.img-full-width {
+    width: 100%;
+    height: auto;
+}

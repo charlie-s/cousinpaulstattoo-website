@@ -1,0 +1,8 @@
+{
+  "name": "cousinpaulstattoo",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}

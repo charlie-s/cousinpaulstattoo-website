@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{page.title}}</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/asset/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/asset/img/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/asset/img/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/asset/img/favicon/manifest.json">
+    <link rel="mask-icon" href="/asset/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- TypeKit -->
+    <script src="https://use.typekit.net/tgj6mye.js"></script>
+    <script>try{Typekit.load({async: true});}catch(e){}</script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/asset/css/style.css" />
+
+</head>
+
+<body>
+
+    <!-- Nav -->
+    <nav class="navbar navbar-toggleable-md navbar-light bg-primary">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <a href="/">
+            <img class="navbar-logo" src="/asset/img/logo/logo-white.svg" />
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Artists</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">FAQ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Splash -->
+    <div class="splash">
+
+        <div class="splash-contact hidden-xs text-center upper small">
+            <a href="https://goo.gl/maps/47Si95CTWMp" target="_blank">4530 Hampton Ave, St. Louis MO 63109</a>
+            <span class="hidden-xs">•</span><br class="visible-xs" />
+            <a href="tel:3148759075">(314) 875-9075</a>
+            <span class="hidden-xs">•</span><br class="visible-xs" />
+            <a href="mailto:cousinpaulstattoo@gmail.com">COUSINPAULSTATTOO@GMAIL.COM</a>
+        </div>
+
+        <!-- <?php if (drupal_is_front_page()): ?>
+            <div class="splash-video hidden-xs">
+                <video autoplay loop>
+                    <source src="/sites/all/themes/cousinpauls/video/header.mp4" type="video/mp4" />
+                </video>
+            </div>
+        <?php endif; ?> -->
+
+        <div class="splash-logo text-center">
+            <a href="/">
+                <img src="/asset/img/logo/logo.png" srcset="/asset/img/logo/logo@2x.png 2x" />
+            </a>
+        </div>
+
+    </div>
+
+    <!-- Main page content -->
+    {{content}}
+
+    <!-- Footer -->
+    <footer class="footer container-fluid text-center">
+
+        <div class="mt-2">&nbsp;</div>
+
+        <img src="/asset/img/logo/logo-sm.png" srcset="/asset/img/logo/logo-sm@2x.png 2x" />
+        <br />
+        <br />
+        <a href="https://www.facebook.com/Cousin-Pauls-Tattoo-Co-1497627340567137"><img class="footer-icn" src="/asset/img/icn/icn-facebook.png" /></a>
+        <a href="https://www.instagram.com/cousinpaulstattoo/"><img class="footer-icn" src="/asset/img/icn/icn-instagram.png" /></a>
+        <br />
+        <br />
+        <small>
+            Copyright &copy; 2016-2017. Cousin Paul's Tattoo Co.
+            <br />
+            <a href="https://goo.gl/maps/SvK79ATvAhG2" target="_blank">4530 Hampton Ave, St. Louis, MO 63109</a>
+            <a href="tel:3148759075" class="visible-xs">(314) 875-9075</a>
+            <span class="hidden-xs">&middot; (314) 875-9075</span>
+        </small>
+
+        <div class="mt-2">&nbsp;</div>
+
+    </footer>
+
+    <!-- Vendor scripts -->
+    <script src="/asset/js/jquery.min.js"></script>
+    <script src="/asset/js/tether.min.js"></script>
+    <script src="/asset/js/bootstrap.min.js"></script>
+
+</body>
+</html>
