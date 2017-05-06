@@ -5,6 +5,7 @@ collections:
   artists:
     title: Artists
     output: true
+    Artist Title: Artist
   posts:
     title: Posts
     output: true
