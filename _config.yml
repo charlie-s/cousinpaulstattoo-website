@@ -30,6 +30,11 @@ defaults:
     type: artists
   values:
     layout: artist
+    Artist Title: Artist
+    Email:
+    Hours:
+    Portfolio Images:
+    -
 permalink: pretty
 exclude:
 - Gemfile
