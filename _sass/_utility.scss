@@ -4,23 +4,35 @@
 
 .xs-text-left {
     @media only screen and (max-width: 767px) {
-        text-align: left;
+        text-align: left !important;
     }
 }
 
 .xs-text-center {
     @media only screen and (max-width: 767px) {
-        text-align: center;
+        text-align: center !important;
     }
 }
 
 .xs-text-right {
     @media only screen and (max-width: 767px) {
-        text-align: right;
+        text-align: right !important;
     }
 }
 
 .img-full-width {
     width: 100%;
     height: auto;
+}
+
+.icn {
+    height: 36px;
+    width: auto;
+    margin: 4px;
+}
+
+@media only screen and (min-width: 768px) {
+    .pt-sm-35 {
+        padding-top: 140px !important;
+    }
 }

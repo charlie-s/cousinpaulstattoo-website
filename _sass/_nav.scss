@@ -1,7 +1,13 @@
 // Small nav
 @media only screen and (max-width: 767px) {
+
+    body {
+        padding-top: 76px;
+    }
+
     .navbar {
         overflow: hidden;
+        min-height: 76px;
     }
 
     .navbar-logo {

@@ -2,14 +2,24 @@
 layout: default
 ---
 
-<div class="container mt-4 mt-md-8">
+<div class="bg-pattern">
+    <div class="container pt-5 pt-sm-35">
+
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4 text-center">
+                <h1>Artists</h1>
+                <h3>Meet our team</h3>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="container mt-4">
 
     <div class="row">
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-            <h1 class="text-center">Artists</h1>
-            <div class="mt-4">
-                {{content}}
-            </div>
+            {{content}}
         </div>
     </div>
 
@@ -17,11 +27,11 @@ layout: default
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
             {% for artist in site.artists %}
                 <div class="row mt-5">
-                    <div class="col-12 col-sm-4 text-right xs-text-center">
+                    <div class="col-12 col-sm-4">
                         <h2>{{artist.title}}</h2>
                         <h3>{{artist['Artist Title']}}</h3>
                     </div>
-                    <div class="col-12 col-sm-8">
+                    <div class="col-12 col-sm-8 mb-5">
                         {{artist.content}}
                         <div class="row">
                             <div class="col-12 col-sm-6 mt-4">
@@ -37,6 +47,6 @@ layout: default
         </div>
     </div>
 
-    <div class="mt-5 mb-5">&nbsp;</div>
+    <div class="mt-3 mb-0 mt-sm-5 mb-sm-5"></div>
 
 </div>

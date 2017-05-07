@@ -1,5 +1,9 @@
+$font-header: 'Raleway', sans-serif;
+$font-body: 'Raleway', sans-serif;
+
 body {
     font-weight: 300;
+    font-family: $font-body;
 }
 
 * {
@@ -12,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-family: "mr-eaves-xl-modern", sans-serif;
+    font-family: $font-header, sans-serif;
     font-size: 46px;
     font-weight: 200;
     line-height: 46px;
@@ -27,13 +31,13 @@ h1 a:active {
 }
 
 h2 {
-    font-family: "mr-eaves-xl-modern", sans-serif;
+    font-family: $font-header, sans-serif;
     font-size: 30px;
 }
 
 h3 {
     color: #838384;
-    font-family: "mr-eaves-xl-modern", sans-serif;
+    font-family: $font-header, sans-serif;
     font-size: 24px;
     text-transform: uppercase;
     margin: 8px 0;
@@ -41,7 +45,7 @@ h3 {
 
 h4 {
     color: #005e9f;
-    font-family: "mr-eaves-xl-modern", sans-serif;
+    font-family: $font-header, sans-serif;
     font-size: 24px;
     text-transform: uppercase;
     margin: 8px 0;
@@ -55,6 +59,10 @@ a {
 
 p a {
     border-bottom: 1px solid #7d0000;
+}
+
+strong {
+    font-weight: 700;
 }
 
 a:visited {
@@ -72,4 +80,17 @@ a:visited:hover {
 
 .upper {
     text-transform: uppercase;
+}
+
+.type-light {
+    color: #aaa;
+}
+
+.type-light a {
+    border-bottom: none !important;
+    color: #fff;
+
+    &:visited {
+        color: #fff;
+    }
 }

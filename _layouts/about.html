@@ -2,26 +2,36 @@
 layout: default
 ---
 
-<div class="container mt-4 mt-md-8">
+<div class="bg-pattern">
+    <div class="container pt-5 pt-sm-35">
+
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4">
+                <h1>{{page.title}}</h1>
+                <h3>{{page['Subtitle']}}</h3>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="container mt-4">
 
     <div class="row">
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-            <h1 class="text-center">{{page.title}}</h1>
-            <div class="mt-4">
-                {{content}}
-            </div>
+            {{content}}
         </div>
     </div>
 
     <div class="row mt-5">
         <div class="col-12 col-sm-4">
-            <img class="img-fluid" src="/asset/img/about/contact-us.jpg" />
+            <img class="img-fluid" src="/asset/img/photos/sq-studio1.jpg" />
         </div>
         <div class="col-12 col-sm-4 hidden-xs-down">
-            <img class="img-fluid" src="/asset/img/about/map-and-directions.jpg" />
+            <img class="img-fluid" src="/asset/img/photos/sq-studio2.jpg" />
         </div>
         <div class="col-12 col-sm-4 hidden-xs-down">
-            <img class="img-fluid" src="/asset/img/about/our-artists.jpg" />
+            <img class="img-fluid" src="/asset/img/photos/sq-studio3.jpg" />
         </div>
     </div>
 
@@ -32,7 +42,7 @@ layout: default
         <div class="row">
             <div class="col-12">
                 <blockquote class="mt-4 mb-4 text-white">
-                    Our company culture encourages us all to treat our friends, family, co-workers, clients and neighbors with this same level of respect. We’re here because we want to create an environment in our daily lives in which this ideal is nurtured and can grow and spread to other creative arts in our neighborhood and city-wide.
+                    {{page['Quote Excerpt'] | markdownify}}
                 </blockquote>
             </div>
         </div>

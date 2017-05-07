@@ -15,9 +15,8 @@
     <link rel="mask-icon" href="/asset/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#ffffff">
 
-    <!-- TypeKit -->
-    <script src="https://use.typekit.net/tgj6mye.js"></script>
-    <script>try{Typekit.load({async: true});}catch(e){}</script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,700" rel="stylesheet">
 
     <!-- CSS -->
     <link rel="stylesheet" href="/asset/css/style.css" />
@@ -27,37 +26,41 @@
 <body>
 
     <!-- Small-down nav -->
-    <nav class="navbar navbar-light bg-primary hidden-md-up">
+    <nav class="navbar navbar-light fixed-top bg-primary hidden-md-up">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#mobile-nav" aria-controls="mobile-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <a href="/">
-            <img class="navbar-logo" src="/asset/img/logo/logo-white.svg" />
-        </a>
+        {% if page.url != '/' %}
+            <a href="/">
+                <img class="navbar-logo" src="/asset/img/logo/logo-white.svg" />
+            </a>
+        {% endif %}
 
         <div class="collapse navbar-collapse" id="mobile-nav">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">About</a>
+                    <a class="nav-link" href="/">Cousin Paul's Story</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/artists">Artists</a>
+                    <a class="nav-link" href="/artists">Our Artists</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/faq">FAQ</a>
+                    <a class="nav-link" href="/faq">Frequently Asked Questions</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact">Contact Us</a>
+                    <a class="nav-link" href="/contact">Contact, Map &amp; Directions</a>
                 </li>
             </ul>
         </div>
     </nav>
 
     <!-- Small-down splash -->
-    <div class="hidden-md-up">
-        <img class="img-fluid" src="/asset/img/full-width/tools-2.jpg" />
-    </div>
+    {% if page.url == '/' %}
+        <div class="hidden-md-up bg-cover" style="background-image: url('/asset/img/header/about-xs.jpg');">
+            <img class="img-fluid" src="/asset/img/logo/logo.png" srcset="/asset/img/logo/logo@2x.png 2x" />
+        </div>
+    {% endif %}
 
     <!-- Medium+ splash -->
     <div class="splash hidden-sm-down {% if page.url == '/' %}splash-video-height{% endif %}">
@@ -86,8 +89,8 @@
 
     </div>
 
-    <!-- Medium+ mnav -->
-    <nav class="bg-primary">
+    <!-- Medium+ nav -->
+    <nav class="bg-primary hidden-sm-down">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-2">
@@ -108,11 +111,10 @@
     </nav>
 
     <!-- Main page content -->
-    <div class="mt-5 mb-5">&nbsp;</div>
     {{content}}
 
     <!-- Footer -->
-    <footer class="footer container-fluid text-center">
+    <div class="container-fluid text-center bg-cover bg-footer type-light">
 
         <div class="row">
             <div class="col-12">
@@ -123,8 +125,8 @@
 
                 <div class="mt-4"></div>
 
-                <a target="_blank" href="https://www.facebook.com/Cousin-Pauls-Tattoo-Co-1497627340567137"><img class="footer-icn" src="/asset/img/icn/icn-facebook.png" /></a>
-                <a target="_blank" href="https://www.instagram.com/cousinpaulstattoo/"><img class="footer-icn" src="/asset/img/icn/icn-instagram.png" /></a>
+                <a target="_blank" href="https://www.facebook.com/Cousin-Pauls-Tattoo-Co-1497627340567137"><img class="icn" src="/asset/img/icn/icn-facebook.png" /></a>
+                <a target="_blank" href="https://www.instagram.com/cousinpaulstattoo/"><img class="icn" src="/asset/img/icn/icn-instagram.png" /></a>
 
                 <div class="mt-4"></div>
 
