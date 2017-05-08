@@ -1,13 +1,78 @@
+// Helpers
 .bg-cover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
-.bg-pattern {
-    background-image: url('/asset/img/bg/bg-pattern.png');
+// Background images
+.bg-pattern-circle {
+    background-image: url('/asset/img/bg/pattern-circle.png');
 }
 
 .bg-footer {
-    background-image: url('/asset/img/bg/bg-footer.jpg');
+    background-image: url('/asset/img/bg/footer.jpg');
+}
+
+.bg-header-default {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/default-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/default-md.jpg');
+    }
+}
+
+.bg-header-about {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/about-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/about-md.jpg');
+    }
+}
+
+.bg-header-machine {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/machine-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/machine-md.jpg');
+    }
+}
+
+.bg-header-contact {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/contact-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/contact-md.jpg');
+    }
+}
+
+.bg-header-artists {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/artists-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/artists-md.jpg');
+    }
+}
+
+.bg-header-rope {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/rope-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/rope-md.jpg');
+    }
+}
+
+.bg-header-toolbox {
+    @media only screen and (max-width: 767px) {
+        background-image: url('/asset/img/header/toolbox-xs.jpg');
+    }
+    @media only screen and (min-width: 768px) {
+        background-image: url('/asset/img/header/toolbox-md.jpg');
+    }
 }

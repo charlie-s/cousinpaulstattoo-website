@@ -2,8 +2,9 @@
 title: Welcome to Cousin Paul's
 date: 2017-03-05 17:49:00 -06:00
 permalink: "/"
-Subtitle: Our Story
 layout: about
+header_img_class: about
+Subtitle: Our Story
 Quote Excerpt: |-
   **Our company culture encourages us all to treat our friends, family, co-workers, clients and neighbors with this same level of respect.** We’re here because we want to create an environment in our daily lives in which this ideal is nurtured and can grow and spread to other creative arts in our neighborhood and city-wide.
 ---

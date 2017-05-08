@@ -1,0 +1,20 @@
+// Artists
+.artist-photo-wrapper {
+    width: 329px;
+    height: 148px;
+    margin: 0 auto;
+    background: url('/asset/img/shapes/divider-artist.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    img {
+        border: 2px solid #005e9f;
+    }
+}
+
+// Icons
+img.icn {
+    height: 36px;
+    width: auto;
+    margin: 4px;
+}

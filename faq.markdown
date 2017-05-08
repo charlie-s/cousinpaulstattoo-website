@@ -2,6 +2,8 @@
 title: Frequently Asked Questions
 date: 2017-03-05 17:49:00 -06:00
 permalink: "/faq"
+header_img_class: machine
+layout: faq
 ---
 
 **How much will my tattoo cost?**

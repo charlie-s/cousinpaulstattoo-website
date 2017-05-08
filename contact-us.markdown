@@ -1,7 +1,9 @@
 ---
-title: Walk-In's Welcome
+title: Get In Touch
 date: 2017-03-05 17:49:00 -06:00
 permalink: "/contact"
+layout: contact
+header_img_class: contact
 Email Excerpt: |-
   CousinPaulsTattoo@gmail.com
   Laura: boraboralaura@ymail.com
@@ -12,7 +14,6 @@ Call Excerpt: |-
 Visit Excerpt: |-
   4530 Hampton Ave
   St. Louis, MO 63109
-layout: contact
 ---
 
-We're located at Devonshire Avenue in the Hampshire Building, down the stairs on the bottom floor. Walk-ins are welcome on Sundays from x-x. For a consultation, call the numbers listed below.
+We're located at Devonshire Avenue in the Hampshire Building, down the stairs on the bottom floor. Walk-ins are welcome on Sundays from 12-6pm. For a consultation, call the shop or an artist at the numbers listed below.
