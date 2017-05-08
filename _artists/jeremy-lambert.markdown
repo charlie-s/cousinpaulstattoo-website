@@ -17,3 +17,5 @@ An Ohio Native, Jeremy has over 10 years of tattooing experience and has lived i
 Jeremy enjoys black & grey realism/horror and portrait work, and also enjoys full color. He loves a good challenge and enjoys fine-line and intricate detailed work.
 
 Jeremy strives to provide his clientele with exactly what they envision and to improve in his craft every day.
+
+You can view more of Jeremy's work at [jeremylamberttattoos.com](http://www.jeremylamberttattoos.com/).
