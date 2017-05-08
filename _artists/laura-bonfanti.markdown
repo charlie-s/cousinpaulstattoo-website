@@ -9,6 +9,13 @@ Hours Excerpt: |-
   Tuesday 12-9 – by appointment
   Sunday – walk-in only, 12pm-6pm
   Wed - Fri – special circumstances only
+Portfolio Images:
+- "/uploads/barhill-sleeve-2.jpg"
+- "/uploads/12985436_1566188810377656_8340205382768449450_n.jpg"
+- "/uploads/12651033_1525141764482361_5020636107944086058_n.jpg"
+- "/uploads/12540754_1518743615122176_5834008701337248023_n.jpg"
+- "/uploads/12321139_1499451710384700_6024118947518695003_n.jpg"
+- "/uploads/12932592_1560168490979688_2123314640276986881_n.jpg"
 ---
 
 Laura Bonfanti, a tattooer, and the owner of CPTC, was born in St. Louis City and graduated from CVPA High School, class of 1991 where she majored in visual art, and minored in photography, creative writing and silversmithing. She began tattooing in 1996 when she realized she could take her interests in visual art, cultural anthropology, healing arts, and body adornment and combine them into work as a tattooer. Her career began under the apprenticeship of R. Hammer Madison and ‘Tatu’ Tony DiPietro. near Daytona, FL. It was here that she earned the nickname “BoraBoraLaura”.
