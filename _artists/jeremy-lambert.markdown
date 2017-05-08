@@ -4,6 +4,12 @@ date: 2017-05-06 17:41:00 -05:00
 Artist Title: Artist
 Email: jlambert314@gmail.com
 Hours Excerpt: Contact Jeremy for his availability.
+Portfolio Images:
+- "/uploads/Screen%20Shot%202017-02-19%20at%202.47.24%20PM%20copy.jpg"
+- "/uploads/Screen%20Shot%202017-02-19%20at%202.46.43%20PM%20copy.jpg"
+- "/uploads/Screen%20Shot%202017-02-19%20at%202.46.33%20PM%20copy.jpg"
+- "/uploads/Screen%20Shot%202017-02-19%20at%202.46.17%20PM.png"
+- "/uploads/Screen%20Shot%202017-02-19%20at%202.46.56%20PM%20copy.jpg"
 ---
 
 An Ohio Native, Jeremy has over 10 years of tattooing experience and has lived in the heart of St. Louis City for the past 7 years. He is also a dedicated family man.
