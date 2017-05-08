@@ -5,9 +5,9 @@ permalink: "/contact"
 layout: contact
 header_img_class: contact
 Email Excerpt: |-
-  CousinPaulsTattoo@gmail.com
-  Laura: boraboralaura@ymail.com
-  Greg: gregtattoos314@gmail.com
+  [CousinPaulsTattoo@gmail.com](CousinPaulsTattoo@gmail.com)
+  Laura: [boraboralaura@ymail.com](boraboralaura@ymail.com)
+  Greg: [gregtattoos314@gmail.com](gregtattoos314@gmail.com)
 Call Excerpt: |-
   Studio: (314) 875-9075
   Greg: (314) 348-1431
