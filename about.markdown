@@ -12,7 +12,7 @@ Quote Excerpt: "**Our company culture encourages us all to treat our friends, fa
 layout: about
 ---
 
-What’s in the name? Our name embodies our shared vision for the kind of culture we want to see flourishing in our community.
+What’s in a name? Our name embodies our shared vision for the kind of culture we want to see flourishing in our community.
 
 While the name Paul belonged to Laura’s grandfather, the shop name is bigger than just him. Cousin Paul represents every man. Our cousins are some of our first friends in life. We don’t choose them, and often times they are very different from us, but we love them as part of our family. We would stand up and fight for them. We would help them in times of need.
 
