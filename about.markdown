@@ -2,7 +2,6 @@
 title: Welcome to Cousin Paul's
 date: 2017-03-05 17:49:00 -06:00
 permalink: "/"
-layout: about
 header_img_class: about
 Subtitle: Our Story
 Quote Excerpt: "**Our company culture encourages us all to treat our friends, family,
@@ -10,6 +9,7 @@ Quote Excerpt: "**Our company culture encourages us all to treat our friends, fa
   because we want to create an environment in our daily lives in which this ideal
   is nurtured and can grow and spread to other creative arts in our neighborhood and
   city-wide."
+layout: about
 ---
 
 What’s in a name? Our name embodies our shared vision for the kind of culture we want to see flourishing in our community.

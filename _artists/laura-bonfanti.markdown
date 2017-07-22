@@ -9,7 +9,7 @@ Hours Excerpt: |-
   Monday 12-9 – by appointment
   Tuesday 12-9 – by appointment
   Sunday – walk-in only, 12pm-6pm
-  Wed - Fri – special circumstances only
+  Wed - Fri – special circumstances only.
 Portfolio Images:
 - "/uploads/barhill-sleeve-2.jpg"
 - "/uploads/12985436_1566188810377656_8340205382768449450_n.jpg"
