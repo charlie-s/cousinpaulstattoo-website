@@ -3,6 +3,7 @@ title: Greg Schaefer
 date: 2017-05-04 18:49:00 -05:00
 Artist Title: Artist
 Email: gregtattoos314@gmail.com
+Instagram: olegreg314
 Hours Excerpt: Monday, Tuesday, Thursday and Saturday 11-8.
 Portfolio Images:
 - "/uploads/FB_IMG_1458918830026.jpg"

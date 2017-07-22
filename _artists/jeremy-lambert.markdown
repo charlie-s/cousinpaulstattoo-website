@@ -3,6 +3,7 @@ title: Jeremy Lambert
 date: 2017-05-06 17:41:00 -05:00
 Artist Title: Artist
 Email: jlambert314@gmail.com
+Instagram: jlambert_tattoo
 Hours Excerpt: Contact Jeremy for his availability.
 ---
 

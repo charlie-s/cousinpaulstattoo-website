@@ -3,6 +3,7 @@ title: Laura Bonfanti
 date: 2017-03-05 17:49:00 -06:00
 Artist Title: Artist & Owner
 Email: boraboralaura@ymail.com
+Instagram: bonfantidiraconteur
 Hours Excerpt: |-
   Saturday 12-9 – by appointment
   Monday 12-9 – by appointment
