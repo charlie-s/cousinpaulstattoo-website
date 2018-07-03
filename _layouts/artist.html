@@ -42,7 +42,10 @@ layout: default
                 Email: <a href="mailto: {{page['Email']}}">{{page['Email']}}</a>
                 <br />
                 {% if page['Instagram'] %}
-                    Instagram: <a href="http://www.instagram.com/{{page['Instagram']}}">{{page['Instagram']}}</a>
+                    <div>Instagram: <a href="https://www.instagram.com/{{page['Instagram']}}">{{page['Instagram']}}</a></div>
+                {% endif %}
+                {% if page['Facebook'] %}
+                    <div>Facebook: <a href="https://www.facebook.com/{{page['Facebook']}}">{{page['Facebook']}}</a></div>
                 {% endif %}
             </div>
         </div>
