@@ -25,15 +25,17 @@
 
 <body>
 
-    <!-- Small-down nav -->
-    <nav class="navbar navbar-light fixed-top bg-primary hidden-md-up">
+    <!-- Medium-down nav -->
+    <nav class="navbar navbar-light fixed-top bg-primary hidden-lg-up">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#mobile-nav" aria-controls="mobile-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <a href="/">
-            <img class="navbar-logo" src="/asset/img/logo/logo-white.svg" />
-        </a>
+        <div class="hidden-lg-up">
+            <a href="/">
+                <img class="navbar-logo" src="/asset/img/logo/logo-white.svg" />
+            </a>
+        </div>
 
         <div class="collapse navbar-collapse" id="mobile-nav">
             <ul class="navbar-nav mr-auto">
@@ -56,15 +58,12 @@
         </div>
     </nav>
 
-    <!-- Small-down header -->
-    <div class="hidden-md-up header-height bg-cover bg-header-{{page.header_img_class}} text-center">
-        {% if page.url == '/' %}
-            <img class="img-fluid" src="/asset/img/logo/logo.png" srcset="/asset/img/logo/logo@2x.png 2x" />
-        {% endif %}
+    <div class="hidden-lg-up header-height bg-cover bg-header-{{page.header_img_class}}">
+
     </div>
 
-    <!-- Medium+ header -->
-    <div class="hidden-sm-down header-height bg-cover bg-header-{{page.header_img_class}} {% if page.url == '/' %}header-height-video{% endif %}">
+    <!-- Large+ header -->
+    <div class="hidden-md-down header-height bg-cover bg-header-{{page.header_img_class}} {% if page.url == '/' %}header-height-video{% endif %}">
 
         <div class="header-contact text-center">
             <a href="https://goo.gl/maps/47Si95CTWMp" target="_blank">4530 Hampton Ave, St. Louis MO 63109</a>
@@ -84,14 +83,14 @@
 
         <div class="header-logo text-center">
             <a href="/">
-                <img src="/asset/img/logo/logo.png" srcset="/asset/img/logo/logo@2x.png 2x" />
+                <img src="/asset/img/logo/logo.png" srcset="/asset/img/logo/logo-white@2x.png 2x" />
             </a>
         </div>
 
     </div>
 
-    <!-- Medium+ nav -->
-    <nav class="bg-primary hidden-sm-down">
+    <!-- Large+ nav -->
+    <nav class="bg-primary hidden-md-down">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-4">
@@ -133,9 +132,11 @@
         <div class="row">
             <div class="col-12">
 
-                <div class="mt-4"></div>
-
-                <img src="/asset/img/logo/logo-sm.png" srcset="/asset/img/logo/logo-sm@2x.png 2x" />
+                <div class="row mt-4">
+                    <div class="col-12 col-lg-2 offset-lg-5">
+                        <img class="img-fluid" src="/asset/img/logo/logo.png" srcset="/asset/img/logo/logo@2x.png 2x" />
+                    </div>
+                </div>
 
                 <div class="mt-4"></div>
 
