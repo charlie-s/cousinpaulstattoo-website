@@ -7,9 +7,6 @@ collections:
     title: Artists
     output: true
     permalink: /artist/:path/
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ""
