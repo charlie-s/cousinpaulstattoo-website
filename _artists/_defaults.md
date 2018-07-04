@@ -5,6 +5,6 @@ email:
 facebook:
 instagram:
 hours_markdown:
-portfolio_image:
--
+portfolio_images:
+- portfolio_image:
 ---
