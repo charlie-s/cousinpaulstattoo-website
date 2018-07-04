@@ -9,8 +9,8 @@ header_img_class: toolbox
     <div class="container pt-5 pt-sm-35">
         <div class="row">
             <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4">
-                <h1>Gallery</h1>
-                <h3>Our Artist's Work</h3>
+                <h1 class="editable">Gallery</h1>
+                <h3 class="editable">Our Artist's Work</h3>
             </div>
         </div>
     </div>
@@ -19,7 +19,7 @@ header_img_class: toolbox
 <div class="container mt-4">
     <div class="row">
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-            <div>
+            <div class="editable">
                 <p>You can view our artist's <a href="/artists">individual portfolios</a> by visting their respective page.</p>
             </div>
         </div>
