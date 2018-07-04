@@ -1,6 +1,5 @@
 ---
 title: Molly Pehle
-date: 2018-07-03 00:00:00 -05:00
 artist_image:
 artist_title: Artist
 email:

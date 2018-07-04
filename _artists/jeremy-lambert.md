@@ -1,6 +1,5 @@
 ---
 title: Jeremy Lambert
-date: 2017-05-06 17:41:00 -05:00
 artist_image:
 artist_title: Artist
 email: jlambert314@gmail.com

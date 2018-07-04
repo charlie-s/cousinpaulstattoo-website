@@ -1,6 +1,5 @@
 ---
 title: Laura Bonfanti
-date: 2017-03-05 17:49:00 -06:00
 artist_image:
 artist_title: Artist & Owner
 email: boraboralaura@ymail.com
