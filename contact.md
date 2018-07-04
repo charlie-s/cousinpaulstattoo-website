@@ -1,0 +1,59 @@
+---
+title: Contact
+date: 2017-03-05 17:49:00 -06:00
+permalink: "/contact"
+header_img_class: contact
+---
+
+<div class="bg-pattern-circle">
+    <div class="container pt-5 pt-sm-35">
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4">
+                <h1 class="editable">Get In Touch</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            <div class="editable">
+                <p>We're located at Devonshire Avenue in the Hampshire Building, down the stairs on the bottom floor. Walk-ins are welcome on Sundays from 12-6pm. For a consultation, call the shop or an artist at the numbers listed below.</p>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-12 col-sm-4 col-md-8 offset-md-2">
+            <div class="row">
+                <div class="col-12 col-sm-4">
+                    <h3 class="editable">Email</h3>
+                    <div class="editable">
+                        <a href="mailto: CousinPaulsTattoo@gmail.com">CousinPaulsTattoo@gmail.com</a><br>
+                        <a href="mailto: boraboralaura@ymail.com">Email Laura</a><br>
+                        <a href="mailto: gregtattoos314@gmail.com">Email Greg</a><br>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <h3 class="editable">Call</h3>
+                    <div class="editable">
+                        Studio: (314) 875-9075<br>
+                        Greg: (314) 348-1431
+                    </div>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <h3 class="editable">Visit</h3>
+                    <div class="editable">
+                        4530 Hampton Ave<br>
+                        St. Louis, MO 63109
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12474.394105907522!2d-90.2940924!3d38.5890921!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x45349415fc97ff65!2sCousin+Paul&#39;s+Tattoo+Co.!5e0!3m2!1sen!2sus!4v1479721045298" width="100%" height="450" frameborder="0" style="border:0; border-radius: 3px;" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>

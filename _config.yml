@@ -7,10 +7,8 @@ collections:
     output: true
     Artist Title: Artist
     Portfolio Images:
-    - 
-  posts:
-    title: Posts
-    output: true
+    -
+    permalink: /artist/:path/
   uploads:
     title: Uploads
     output: true
@@ -19,13 +17,7 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: page
-    header_img_class: default
-- scope:
-    path: blog
-    type: posts
-  values:
-    layout: post
+    layout: default
     header_img_class: default
 - scope:
     path: ''
@@ -34,10 +26,10 @@ defaults:
     layout: artist
     header_img_class: default
     Artist Title: Artist
-    Email: 
-    Hours Excerpt: 
+    Email:
+    Hours Excerpt:
     Portfolio Images:
-    - 
+    -
 permalink: pretty
 exclude:
 - Gemfile

@@ -1,7 +1,43 @@
 ---
 title: Artists
 date: 2017-03-05 17:49:00 -06:00
-permalink: "/artists/index.html"
-layout: artists
+permalink: "/artists"
 header_img_class: artists
 ---
+
+<div class="bg-pattern-circle">
+    <div class="container pt-5 pt-sm-35">
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4 text-left text-md-center">
+                <h1 class="editable">Artists</h1>
+                <h3 class="editable">Meet Our Team</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            {% for artist in site.artists %}
+                <div class="row mb-5">
+                    <div class="col-12 col-sm-4">
+                        <h2>{{artist.title}}</h2>
+                        <h3>{{artist['Artist Title']}}</h3>
+                    </div>
+                    <div class="col-12 col-sm-8 mb-5">
+                        {{artist.content}}
+                        <div class="row">
+                            <div class="col-12 col-sm-6 mt-4">
+                                <a class="btn btn-primary btn-block" href="{{artist.url}}">Contact</a>
+                            </div>
+                            <div class="col-12 col-sm-6 mt-4">
+                                <a class="btn btn-default btn-block" href="{{artist.url}}">Portfolio</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
