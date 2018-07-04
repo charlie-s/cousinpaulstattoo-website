@@ -33,12 +33,12 @@ exclude:
 
 _options:
   artist_image:
-    uploads_dir: /upload/artist/:title
+    uploads_dir: "/asset/img/artist/:title"
     width: 500
     height: 500
     resize_style: "cover"
   portfolio_image:
-    uploads_dir: /upload/artist/:title
+    uploads_dir: "/asset/img/artist/:title"
     width: 500
     height: 500
     resize_style: "cover"

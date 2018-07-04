@@ -12,12 +12,12 @@ hours_markdown: |
   Sunday – walk-in only, 12pm-6pm
   Wed - Fri – special circumstances only.
 portfolio_image:
-- "/upload/laura-bonfanti/barhill-sleeve-2.jpg"
-- "/upload/laura-bonfanti/12985436_1566188810377656_8340205382768449450_n.jpg"
-- "/upload/laura-bonfanti/12651033_1525141764482361_5020636107944086058_n.jpg"
-- "/upload/laura-bonfanti/12540754_1518743615122176_5834008701337248023_n.jpg"
-- "/upload/laura-bonfanti/12321139_1499451710384700_6024118947518695003_n.jpg"
-- "/upload/laura-bonfanti/12932592_1560168490979688_2123314640276986881_n.jpg"
+- "/asset/img/artist/laura-bonfanti/barhill-sleeve-2.jpg"
+- "/asset/img/artist/laura-bonfanti/12985436_1566188810377656_8340205382768449450_n.jpg"
+- "/asset/img/artist/laura-bonfanti/12651033_1525141764482361_5020636107944086058_n.jpg"
+- "/asset/img/artist/laura-bonfanti/12540754_1518743615122176_5834008701337248023_n.jpg"
+- "/asset/img/artist/laura-bonfanti/12321139_1499451710384700_6024118947518695003_n.jpg"
+- "/asset/img/artist/laura-bonfanti/12932592_1560168490979688_2123314640276986881_n.jpg"
 ---
 
 Laura Bonfanti, a tattooer, and the owner of CPTC, was born in St. Louis City and graduated from CVPA High School, class of 1991 where she majored in visual art, and minored in photography, creative writing and silversmithing. She began tattooing in 1996 when she realized she could take her interests in visual art, cultural anthropology, healing arts, and body adornment and combine them into work as a tattooer. Her career began under the apprenticeship of R. Hammer Madison and ‘Tatu’ Tony DiPietro. near Daytona, FL. It was here that she earned the nickname “BoraBoraLaura”.

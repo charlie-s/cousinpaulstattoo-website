@@ -7,18 +7,18 @@ facebook:
 instagram: jlambert_tattoo
 hours_markdown: Contact Jeremy for his availability.
 portfolio_image:
-- "/upload/jeremy-lambert/photo11.jpg"
-- "/upload/jeremy-lambert/photo12.jpg"
-- "/upload/jeremy-lambert/photo3.jpg"
-- "/upload/jeremy-lambert/photo9.jpg"
-- "/upload/jeremy-lambert/photo10.jpg"
-- "/upload/jeremy-lambert/photo8.jpg"
-- "/upload/jeremy-lambert/photo7.jpg"
-- "/upload/jeremy-lambert/photo6.jpg"
-- "/upload/jeremy-lambert/photo5.jpg"
-- "/upload/jeremy-lambert/photo4.jpg"
-- "/upload/jeremy-lambert/photo1.jpg"
-- "/upload/jeremy-lambert/photo2.jpg"
+- "/asset/img/artist/jeremy-lambert/photo11.jpg"
+- "/asset/img/artist/jeremy-lambert/photo12.jpg"
+- "/asset/img/artist/jeremy-lambert/photo3.jpg"
+- "/asset/img/artist/jeremy-lambert/photo9.jpg"
+- "/asset/img/artist/jeremy-lambert/photo10.jpg"
+- "/asset/img/artist/jeremy-lambert/photo8.jpg"
+- "/asset/img/artist/jeremy-lambert/photo7.jpg"
+- "/asset/img/artist/jeremy-lambert/photo6.jpg"
+- "/asset/img/artist/jeremy-lambert/photo5.jpg"
+- "/asset/img/artist/jeremy-lambert/photo4.jpg"
+- "/asset/img/artist/jeremy-lambert/photo1.jpg"
+- "/asset/img/artist/jeremy-lambert/photo2.jpg"
 ---
 
 An Ohio Native, Jeremy has over 10 years of tattooing experience and has lived in the heart of St. Louis City for the past 7 years. He is also a dedicated family man.
