@@ -6,7 +6,7 @@ email: gregtattoos314@gmail.com
 facebook:
 instagram: olegreg314
 hours_markdown: Monday, Tuesday, Thursday and Saturday 11-8.
-portfolio_image:
+portfolio_images:
 - portfolio_image: "/asset/img/artist/greg-schaefer/FB_IMG_1458918830026.jpg"
 - portfolio_image: "/asset/img/artist/greg-schaefer/FB_IMG_1458918957944.jpg"
 - portfolio_image: "/asset/img/artist/greg-schaefer/FB_IMG_1458918982499.jpg"

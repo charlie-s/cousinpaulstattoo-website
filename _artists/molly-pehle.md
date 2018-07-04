@@ -6,7 +6,7 @@ email:
 facebook: mollypoptattoo
 instagram: mollypehletattoo
 hours_markdown:
-portfolio_image:
+portfolio_images:
 - portfolio_image:
 ---
 

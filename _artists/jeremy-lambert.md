@@ -6,7 +6,7 @@ email: jlambert314@gmail.com
 facebook:
 instagram: jlambert_tattoo
 hours_markdown: Contact Jeremy for his availability.
-portfolio_image:
+portfolio_images:
 - portfolio_image: "/asset/img/artist/jeremy-lambert/photo11.jpg"
 - portfolio_image: "/asset/img/artist/jeremy-lambert/photo12.jpg"
 - portfolio_image: "/asset/img/artist/jeremy-lambert/photo3.jpg"

@@ -49,10 +49,10 @@ layout: default
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
             <h3>Portfolio</h3>
             <div class="row">
-                {% for image in page['portfolio_image'] %}
+                {% for image in page['portfolio_images'] %}
                     <div class="col-6 col-md-4 mt-3 mb-3">
-                        <a href="{{image}}" data-toggle="lightbox" data-gallery="portfolio">
-                            <img class="img-fluid" src="{{image}}">
+                        <a href="{{image.portfolio_image}}" data-toggle="lightbox" data-gallery="portfolio">
+                            <img class="img-fluid" src="{{image.portfolio_image}}">
                         </a>
                     </div>
                 {% endfor %}

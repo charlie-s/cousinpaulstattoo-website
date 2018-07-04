@@ -11,7 +11,7 @@ hours_markdown: |
   Tuesday 12-9 – by appointment
   Sunday – walk-in only, 12pm-6pm
   Wed - Fri – special circumstances only.
-portfolio_image:
+portfolio_images:
 - portfolio_image: "/asset/img/artist/laura-bonfanti/barhill-sleeve-2.jpg"
 - portfolio_image: "/asset/img/artist/laura-bonfanti/12985436_1566188810377656_8340205382768449450_n.jpg"
 - portfolio_image: "/asset/img/artist/laura-bonfanti/12651033_1525141764482361_5020636107944086058_n.jpg"

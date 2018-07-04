@@ -6,7 +6,7 @@ email:
 facebook: wallyb.slumerican
 instagram: wildboy_wallyb
 hours_markdown:
-portfolio_image:
+portfolio_images:
 - portfolio_image:
 ---
 
