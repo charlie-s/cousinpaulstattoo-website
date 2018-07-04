@@ -1,7 +1,7 @@
 ---
-title:
-date: 2017-03-05 17:49:00 -06:00
-permalink: "/gallery"
+title: Gallery
+date: 2017-03-05 17:49:00 -0600
+permalink: /gallery
 header_img_class: toolbox
 ---
 
@@ -9,8 +9,8 @@ header_img_class: toolbox
     <div class="container pt-5 pt-sm-35">
         <div class="row">
             <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4">
-                <h1 class="editable">Gallery</h1>
-                <h3 class="editable">Our Artist's Work</h3>
+                <h1>Gallery</h1>
+                <h3>Our Artist's Work</h3>
             </div>
         </div>
     </div>
@@ -19,7 +19,7 @@ header_img_class: toolbox
 <div class="container mt-4">
     <div class="row">
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-            <div class="editable">
+            <div>
                 <p>You can view our artist's <a href="/artists">individual portfolios</a> by visting their respective page.</p>
             </div>
         </div>
@@ -28,7 +28,7 @@ header_img_class: toolbox
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
             <!-- SnapWidget -->
             <script src="https://snapwidget.com/js/snapwidget.js"></script>
-            <iframe src="https://snapwidget.com/embed/378609" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+            <iframe src="https://snapwidget.com/embed/378609" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
         </div>
     </div>
     <div class="row mt-2 mt-sm-5">
