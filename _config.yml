@@ -23,6 +23,7 @@ defaults:
   values:
     layout: artist
     header_img_class: default
+    _order: 0
 
 exclude:
 - Gemfile

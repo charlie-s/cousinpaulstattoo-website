@@ -19,7 +19,8 @@ header_img_class: artists
 <div class="container mt-4">
     <div class="row">
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-            {% for artist in site.artists | sort: '_order' %}
+            {% assign artists = site.artists | sort: '_order' %}
+            {% for artist in artists %}
                 <div class="row mb-5">
                     <div class="col-12 col-sm-4">
                         <h2>{{artist.title}}</h2>
