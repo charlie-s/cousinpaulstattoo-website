@@ -6,18 +6,18 @@ email: jlambert314@gmail.com
 hours_excerpt: Contact Jeremy for his availability.
 instagram: jlambert_tattoo
 portfolio_image:
-- "/uploads/photo11.jpg"
-- "/uploads/photo12.jpg"
-- "/uploads/photo3.jpg"
-- "/uploads/photo9.jpg"
-- "/uploads/photo10.jpg"
-- "/uploads/photo8.jpg"
-- "/uploads/photo7.jpg"
-- "/uploads/photo6.jpg"
-- "/uploads/photo5.jpg"
-- "/uploads/photo4.jpg"
-- "/uploads/photo1.jpg"
-- "/uploads/photo2.jpg"
+- "/upload/jeremy-lambert/photo11.jpg"
+- "/upload/jeremy-lambert/photo12.jpg"
+- "/upload/jeremy-lambert/photo3.jpg"
+- "/upload/jeremy-lambert/photo9.jpg"
+- "/upload/jeremy-lambert/photo10.jpg"
+- "/upload/jeremy-lambert/photo8.jpg"
+- "/upload/jeremy-lambert/photo7.jpg"
+- "/upload/jeremy-lambert/photo6.jpg"
+- "/upload/jeremy-lambert/photo5.jpg"
+- "/upload/jeremy-lambert/photo4.jpg"
+- "/upload/jeremy-lambert/photo1.jpg"
+- "/upload/jeremy-lambert/photo2.jpg"
 ---
 
 An Ohio Native, Jeremy has over 10 years of tattooing experience and has lived in the heart of St. Louis City for the past 7 years. He is also a dedicated family man.
