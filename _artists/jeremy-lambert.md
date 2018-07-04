@@ -1,10 +1,12 @@
 ---
 title: Jeremy Lambert
 date: 2017-05-06 17:41:00 -05:00
+artist_image:
 artist_title: Artist
 email: jlambert314@gmail.com
-hours_markdown: Contact Jeremy for his availability.
+facebook:
 instagram: jlambert_tattoo
+hours_markdown: Contact Jeremy for his availability.
 portfolio_image:
 - "/upload/jeremy-lambert/photo11.jpg"
 - "/upload/jeremy-lambert/photo12.jpg"
