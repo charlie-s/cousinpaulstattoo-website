@@ -4,7 +4,7 @@ date: 2017-03-05 17:49:00 -06:00
 artist_title: Artist & Owner
 email: boraboralaura@ymail.com
 instagram: bonfantidiraconteur
-hours_excerpt: |-
+hours_markdown: |
   Saturday 12-9 – by appointment
   Monday 12-9 – by appointment
   Tuesday 12-9 – by appointment

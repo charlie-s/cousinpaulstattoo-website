@@ -4,8 +4,7 @@ date: 2017-05-04 18:49:00 -05:00
 artist_title: Artist
 email: gregtattoos314@gmail.com
 instagram: olegreg314
-hours_excerpt: |-
-  Monday, Tuesday, Thursday and Saturday 11-8.
+hours_markdown: Monday, Tuesday, Thursday and Saturday 11-8.
 portfolio_image:
 - "/upload/greg-schaefer/FB_IMG_1458918830026.jpg"
 - "/upload/greg-schaefer/FB_IMG_1458918957944.jpg"
