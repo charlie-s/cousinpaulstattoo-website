@@ -21,12 +21,15 @@ header_img_class: artists
         <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
             {% assign artists = site.artists | sort: '_order' %}
             {% for artist in artists %}
-                <div class="row mb-5">
+                <div class="row mt-5 mb-5">
                     <div class="col-12 col-sm-4">
                         <h2>{{artist.title}}</h2>
-                        <h3>{{artist['Artist Title']}}</h3>
+                        <h3>{{artist.artist_title}}</h3>
+                        {% if artist.artist_image %}
+                            <img class="img-fluid" src="{{artist.artist_image}}">
+                        {% endif %}
                     </div>
-                    <div class="col-12 col-sm-8 mb-5">
+                    <div class="col-12 col-sm-8">
                         {{artist.content}}
                         <div class="row">
                             <div class="col-12 col-sm-6 mt-4">
