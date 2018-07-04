@@ -1,16 +1,16 @@
 ---
 title: Laura Bonfanti
 date: 2017-03-05 17:49:00 -06:00
-Artist Title: Artist & Owner
-Email: boraboralaura@ymail.com
-Instagram: bonfantidiraconteur
-Hours Excerpt: |-
+artist_title: Artist & Owner
+email: boraboralaura@ymail.com
+instagram: bonfantidiraconteur
+hours_excerpt: |-
   Saturday 12-9 – by appointment
   Monday 12-9 – by appointment
   Tuesday 12-9 – by appointment
   Sunday – walk-in only, 12pm-6pm
   Wed - Fri – special circumstances only.
-Portfolio Images:
+portfolio_image:
 - "/uploads/barhill-sleeve-2.jpg"
 - "/uploads/12985436_1566188810377656_8340205382768449450_n.jpg"
 - "/uploads/12651033_1525141764482361_5020636107944086058_n.jpg"

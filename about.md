@@ -28,13 +28,13 @@ header_img_class: about
     </div>
     <div class="row mt-5">
         <div class="col-12 col-sm-4">
-            <img class="img-fluid" src="/asset/img/photos/sq-studio1.jpg" />
+            <img class="img-fluid" src="/asset/img/photos/sq-studio1.jpg">
         </div>
         <div class="col-12 col-sm-4 hidden-xs-down">
-            <img class="img-fluid" src="/asset/img/photos/sq-studio2.jpg" />
+            <img class="img-fluid" src="/asset/img/photos/sq-studio2.jpg">
         </div>
         <div class="col-12 col-sm-4 hidden-xs-down">
-            <img class="img-fluid" src="/asset/img/photos/sq-studio3.jpg" />
+            <img class="img-fluid" src="/asset/img/photos/sq-studio3.jpg">
         </div>
     </div>
 </div>

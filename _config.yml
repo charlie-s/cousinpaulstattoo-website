@@ -1,39 +1,52 @@
----
 title: Cousin Paul
 timezone: America/Chicago
+permalink: pretty
+
 collections:
   artists:
     title: Artists
     output: true
-    Artist Title: Artist
-    Portfolio Images:
-    -
     permalink: /artist/:path/
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
-    path: ''
+    path: ""
     type: pages
   values:
     layout: default
     header_img_class: default
 - scope:
-    path: ''
+    path: ""
     type: artists
   values:
     layout: artist
     header_img_class: default
-    Artist Title: Artist
-    Email:
-    Hours Excerpt:
-    Portfolio Images:
+    artist_image:
+    artist_title: Artist
+    email:
+    facebook:
+    hours_excerpt:
+    instagram:
+    portfolio_image:
     -
-permalink: pretty
+
 exclude:
 - Gemfile
 - Gemfile.lock
 - node_modules
 - package.json
 - README.md
+
+_options:
+  artist_image:
+    uploads_dir: /upload/artist/:title
+    width: 500
+    height: 500
+    resize_style: "cover"
+  portfolio_image:
+    uploads_dir: /upload/artist/:title
+    width: 500
+    height: 500
+    resize_style: "cover"

@@ -1,10 +1,11 @@
 ---
 title: Jeremy Lambert
 date: 2017-05-06 17:41:00 -05:00
-Artist Title: Artist
-Email: jlambert314@gmail.com
-Hours Excerpt: Contact Jeremy for his availability.
-Portfolio Images:
+artist_title: Artist
+email: jlambert314@gmail.com
+hours_excerpt: Contact Jeremy for his availability.
+instagram: jlambert_tattoo
+portfolio_image:
 - "/uploads/photo11.jpg"
 - "/uploads/photo12.jpg"
 - "/uploads/photo3.jpg"
@@ -17,7 +18,6 @@ Portfolio Images:
 - "/uploads/photo4.jpg"
 - "/uploads/photo1.jpg"
 - "/uploads/photo2.jpg"
-Instagram: jlambert_tattoo
 ---
 
 An Ohio Native, Jeremy has over 10 years of tattooing experience and has lived in the heart of St. Louis City for the past 7 years. He is also a dedicated family man.
