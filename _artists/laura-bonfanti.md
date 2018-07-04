@@ -1,4 +1,5 @@
 ---
+_order: -1
 title: Laura Bonfanti
 artist_image:
 artist_title: Artist & Owner
