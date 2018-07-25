@@ -5,16 +5,9 @@ artist_title: Artist
 email:
 facebook: mollypoptattoo
 instagram: mollypehletattoo
-hours_markdown: |-
-  Tuesday 12-9 - by appointment
-
-  Wednesday 12-9 - by appointment
-
-  Thursday 12-9 - by appointment
-
-  Friday 12-9 - Walk-ins
-
-  Saturday 12-9 - Walk-ins
+hours_markdown: >-
+  Tuesday 12-9 - by appointment<br>Wednesday 12-9 - by appointment<br>Thursday
+  12-9 - by appointment<br>Friday 12-9 - Walk-ins<br>Saturday 12-9 - Walk-ins
 portfolio_images:
   - portfolio_image: /asset/img/artist/molly-pehle/img-0613.JPG
   - portfolio_image: /asset/img/artist/molly-pehle/img-0618.JPG
