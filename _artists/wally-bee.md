@@ -5,7 +5,16 @@ artist_title: Artist
 email:
 facebook: wallyb.slumerican
 instagram: wildboy_wallyb
-hours_markdown: Contact Wally for his hours.
+hours_markdown: |-
+  Tuesday 12-9 - by appointment
+
+  Wednesday 12-9 - by appointment
+
+  Thursday 12-9 - by appointment
+
+  Friday 12-9 - Walk-ins
+
+  Saturday 12-9 - Walk-ins
 portfolio_images:
   - portfolio_image: /asset/img/artist/wally-bee/img-0571.JPG
   - portfolio_image: /asset/img/artist/wally-bee/img-0576.JPG
