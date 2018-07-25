@@ -1,24 +1,24 @@
 ---
 title: Jeremy Lambert
-artist_image:
+artist_image: /asset/img/artist/jeremy-lambert/Jeremy.JPG
 artist_title: Artist
 email: jlambert314@gmail.com
 facebook:
 instagram: jlambert_tattoo
 hours_markdown: Contact Jeremy for his availability.
 portfolio_images:
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo11.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo12.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo3.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo9.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo10.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo8.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo7.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo6.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo5.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo4.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo1.jpg"
-- portfolio_image: "/asset/img/artist/jeremy-lambert/photo2.jpg"
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo11.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo12.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo3.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo9.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo10.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo8.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo7.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo6.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo5.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo4.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo1.jpg
+  - portfolio_image: /asset/img/artist/jeremy-lambert/photo2.jpg
 ---
 
 An Ohio Native, Jeremy has over 10 years of tattooing experience and has lived in the heart of St. Louis City for the past 7 years. He is also a dedicated family man.
