@@ -1,5 +1,6 @@
 ---
 title: Wally Bee
+_order: 3
 artist_image: /asset/img/artist/wally-bee/wally.jpg
 artist_title: Artist
 email:
