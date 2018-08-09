@@ -5,6 +5,7 @@ media_folder: 'asset/img/upload'
 public_folder: '/asset/img/upload'
 
 collections:
+
   - name: 'artists'
     label: 'Artists'
     folder: '_artists'
@@ -24,3 +25,20 @@ collections:
       - { label: 'Facebook', name: 'facebook', widget: 'string', required: false }
       - { label: 'Instagram', name: 'instagram', widget: 'string', required: false }
       - { label: 'Hours', name: 'hours', widget: 'markdown', required: false }
+
+  - label: 'Pages'
+    name: 'pages'
+    files:
+      - label: 'About'
+        name: 'about'
+        file: 'about.md'
+        fields:
+          - { label: Title, name: title, widget: string }
+          # - { label: Intro, name: intro, widget: markdown }
+          # - label: Team
+          #   name: team
+          #   widget: list
+          #   fields:
+          #     - { label: Name, name: name, widget: string }
+          #     - { label: Position, name: position, widget: string }
+          #     - { label: Photo, name: photo, widget: image }
