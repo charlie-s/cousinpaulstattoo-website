@@ -1,6 +1,5 @@
 ---
 title: Artists
-date: 2017-03-05 17:49:00 -06:00
 permalink: "/artists"
 header_img_class: artists
 ---
@@ -9,8 +8,8 @@ header_img_class: artists
     <div class="container pt-5 pt-sm-35">
         <div class="row">
             <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-4 text-left text-md-center">
-                <h1 class="editable">Artists</h1>
-                <h3 class="editable">Meet Our Team</h3>
+                <h1>Artists</h1>
+                <h3>Meet Our Team</h3>
             </div>
         </div>
     </div>
