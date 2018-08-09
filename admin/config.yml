@@ -11,5 +11,12 @@ collections:
     folder: '_artists'
     create: true
     fields:
+      - { label: 'Artist Title', name: 'artist_title', widget: 'string' }
       - { label: 'Artist Image', name: 'artist_image', widget: 'image' }
       - { label: 'Portfolio Image', name: 'portfolio_image', widget: 'image' }
+      - { label: 'Email', name: 'email', widget: 'string' }
+      - { label: 'Facebook', name: 'facebook', widget: 'string' }
+      - { label: 'Instagram', name: 'instagram', widget: 'string' }
+      - { label: 'Hours', name: 'hours', widget: 'markdown' }
+      #portfolio_images:
+      #- portfolio_image:

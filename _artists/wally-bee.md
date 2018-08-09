@@ -6,7 +6,7 @@ artist_title: Artist
 email:
 facebook: wallyb.slumerican
 instagram: wildboy_wallyb
-hours_markdown: >-
+hours: >-
   Tuesday 12-9 - by appointment<br>Wednesday 12-9 - by appointment<br>Thursday
   12-9 - by appointment<br>Friday 12-9 - Walk-ins<br>Saturday 12-9 - Walk-ins
 portfolio_images:
