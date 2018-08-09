@@ -29,27 +29,32 @@ collections:
   - label: 'Pages'
     name: 'pages'
     files:
+
       - label: 'About'
         name: 'about'
         file: 'about.md'
         fields:
           - { label: Title, name: title, widget: string }
+
       - label: 'Artists'
         name: 'artists'
         file: 'artists.md'
         fields:
           - { label: Title, name: title, widget: string }
+
       - label: 'Contact'
         name: 'contact'
         file: 'contact.md'
         fields:
           - { label: Title, name: title, widget: string }
+
       - label: 'FAQ'
         name: 'faq'
         file: 'faq.md'
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Body, name: body, widget: markdown }
+          - { label: FAQ, name: faq, widget: markdown }
+
       - label: 'Gallery'
         name: 'gallery'
         file: 'gallery.md'

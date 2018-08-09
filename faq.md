@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 permalink: "/faq"
 header_img_class: machine
-body:
+faq:
 ---
 
 <div class="bg-pattern-circle">
