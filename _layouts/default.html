@@ -28,12 +28,12 @@
     <body>
 
         <!-- Medium-down nav -->
-        <nav class="navbar navbar-light fixed-top bg-primary hidden-lg-up">
+        <nav class="navbar navbar-light fixed-top bg-primary d-lg-none">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#mobile-nav" aria-controls="mobile-nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="hidden-lg-up">
+            <div class="d-lg-none">
                 <a href="/">
                     <img class="navbar-logo" src="/asset/img/logo/logo-white.svg">
                 </a>
@@ -60,12 +60,12 @@
             </div>
         </nav>
 
-        <div class="hidden-lg-up header-height bg-cover bg-header-{{page.header_img_class}}">
+        <div class="d-lg-none header-height bg-cover bg-header-{{page.header_img_class}}">
 
         </div>
 
         <!-- Large+ header -->
-        <div class="hidden-md-down header-height bg-cover bg-header-{{page.header_img_class}} {% if page.url == '/' %}header-height-video{% endif %}">
+        <div class="d-none d-lg-block header-height bg-cover bg-header-{{page.header_img_class}} {% if page.url == '/' %}header-height-video{% endif %}">
 
             <div class="header-contact text-center">
                 <span class="editable"><a href="https://goo.gl/maps/47Si95CTWMp" target="_blank">4530 Hampton Ave, St. Louis MO 63109</a></span>
@@ -92,7 +92,7 @@
         </div>
 
         <!-- Large+ nav -->
-        <nav class="bg-primary hidden-md-down">
+        <nav class="bg-primary d-none d-lg-block">
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4">
