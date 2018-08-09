@@ -12,6 +12,7 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
+      - { label: 'Artist Name', name: 'title', widget: 'string' }
       - { label: 'Artist Title', name: 'artist_title', widget: 'string' }
       - { label: 'Artist Image', name: 'artist_image', widget: 'image' }
       - { label: 'Portfolio Image', name: 'portfolio_image', widget: 'image' }
