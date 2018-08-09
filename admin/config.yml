@@ -13,11 +13,9 @@ collections:
     fields:
       - { label: 'Artist Name', name: 'title', widget: 'string' }
       - { label: 'Artist Title', name: 'artist_title', widget: 'string' }
-      - { label: 'Artist Image', name: 'artist_image', widget: 'image' }
-      - { label: 'Portfolio Image', name: 'portfolio_image', widget: 'image' }
-      - { label: 'Email', name: 'email', widget: 'string' }
-      - { label: 'Facebook', name: 'facebook', widget: 'string' }
-      - { label: 'Instagram', name: 'instagram', widget: 'string' }
-      - { label: 'Hours', name: 'hours', widget: 'markdown' }
-      #portfolio_images:
-      #- portfolio_image:
+      - { label: 'Artist Image', name: 'artist_image', widget: 'image', required: false }
+      - { label: 'Portfolio Image', name: 'portfolio_image', widget: 'image', required: false }
+      - { label: 'Email', name: 'email', widget: 'string', required: false }
+      - { label: 'Facebook', name: 'facebook', widget: 'string', required: false }
+      - { label: 'Instagram', name: 'instagram', widget: 'string', required: false }
+      - { label: 'Hours', name: 'hours', widget: 'markdown', required: false }
