@@ -1,6 +1,6 @@
 ---
 title: Molly Pehle
-_order: 2
+order: 2
 artist_image: /asset/img/artist/molly-pehle/molly.jpg
 artist_title: Artist
 email:
