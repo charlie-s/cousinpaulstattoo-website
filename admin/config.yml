@@ -15,10 +15,10 @@ collections:
       - { label: 'Artist Title', name: 'artist_title', widget: 'string' }
       - { label: 'Artist Image', name: 'artist_image', widget: 'image', required: false }
       - label: 'Portfolio Images'
-      name: 'portfolio_images'
-      widget: 'list'
-      field:
-        - { label: Portfolio Image, name: portfolio_image, widget: image, required: false }
+        name: 'portfolio_images'
+        widget: 'list'
+        field:
+          - { label: Portfolio Image, name: portfolio_image, widget: image, required: false }
       - { label: 'Email', name: 'email', widget: 'string', required: false }
       - { label: 'Facebook', name: 'facebook', widget: 'string', required: false }
       - { label: 'Instagram', name: 'instagram', widget: 'string', required: false }
