@@ -1,6 +1,6 @@
 ---
 title: Jeremy Lambert
-order: 1
+order: 2
 artist_image: /asset/img/artist/jeremy-lambert/Jeremy.JPG
 artist_title: Artist
 email: jlambert314@gmail.com

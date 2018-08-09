@@ -1,4 +1,5 @@
 ---
+order: 4
 title: Wally Bee
 artist_title: Artist
 artist_image: /asset/img/artist/wally-bee/wally.jpg
@@ -11,4 +12,3 @@ hours: |-
   Friday 12-9 - Walk-ins\
   Saturday 12-9 - Walk-ins
 ---
-
