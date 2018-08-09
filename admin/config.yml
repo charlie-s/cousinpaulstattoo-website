@@ -1,3 +1,6 @@
 backend:
  name: bitbucket
  repo: csdv-bitbucket-cloudcannon/cousinpaulstattoo-jekyll
+
+media_folder: 'asset/img/upload'
+public_folder: '/asset/img/upload'
