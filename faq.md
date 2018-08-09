@@ -1,4 +1,5 @@
 ---
+layout: faq
 title: Frequently Asked Questions
 faq: >-
   **How much will my tattoo cost?**
@@ -185,4 +186,3 @@ faq: >-
   person. After seeing the existing tattoo they can then help devise a design
   and a placement that would best re-work or cover your existing tattoo.
 ---
-
