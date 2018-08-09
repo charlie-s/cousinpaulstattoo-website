@@ -10,6 +10,7 @@ collections:
     label: 'Artists'
     folder: '_artists'
     create: true
+    slug: '{{slug}}'
     fields:
       - { label: 'Artist Title', name: 'artist_title', widget: 'string' }
       - { label: 'Artist Image', name: 'artist_image', widget: 'image' }
