@@ -4,3 +4,12 @@ backend:
 
 media_folder: 'asset/img/upload'
 public_folder: '/asset/img/upload'
+
+collections:
+  - name: 'artists'
+    label: 'Artists'
+    folder: '_artists'
+    create: true
+    fields:
+      - { label: 'Artist Image', name: 'artist_image', widget: 'image' }
+      - { label: 'Portfolio Image', name: 'portfolio_image', widget: 'image' }
