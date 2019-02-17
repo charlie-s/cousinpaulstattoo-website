@@ -22,8 +22,11 @@ portfolio_images:
   - portfolio_image: /asset/img/upload/img-0662.JPG
 facebook: mollypoptattoo
 instagram: mollypehletattoo
-hours: >-
-  Tuesday 12-9 - by appointment<br>Wednesday 12-9 - by appointment<br>Thursday
-  12-9 - by appointment<br>Friday 12-9 - Walk-ins<br>Saturday 12-9 - Walk-ins
+hours: |-
+  Tuesday 12-9 - by appointment
+  Wednesday 12-9 - by appointment
+  Thursday 12-9 - by appointment
+  Friday 12-9 - Walk-ins
+  Saturday 12-9 - Walk-ins
 ---
 Tattooing for 7 years, Molly brings a variety of styles to the table. Offering clean line work, bright colors, soft black and grey, unique designs, and creativity. Wanting to start large scale pieces, but always happy to help with the smaller and medium sized tattoos as well.
