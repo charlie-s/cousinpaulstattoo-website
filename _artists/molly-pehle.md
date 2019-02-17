@@ -1,14 +1,8 @@
 ---
-title: Molly Pehle
 order: 3
-artist_image: /asset/img/upload/molly.jpg
+title: Molly Pehle
 artist_title: Artist
-email:
-facebook: mollypoptattoo
-instagram: mollypehletattoo
-hours: >-
-  Tuesday 12-9 - by appointment<br>Wednesday 12-9 - by appointment<br>Thursday
-  12-9 - by appointment<br>Friday 12-9 - Walk-ins<br>Saturday 12-9 - Walk-ins
+artist_image: /asset/img/upload/molly.jpg
 portfolio_images:
   - portfolio_image: /asset/img/upload/img-0613.JPG
   - portfolio_image: /asset/img/upload/img-0618.JPG
@@ -26,6 +20,10 @@ portfolio_images:
   - portfolio_image: /asset/img/upload/img-0654.JPG
   - portfolio_image: /asset/img/upload/img-0655.JPG
   - portfolio_image: /asset/img/upload/img-0662.JPG
+facebook: mollypoptattoo
+instagram: mollypehletattoo
+hours: >-
+  Tuesday 12-9 - by appointment<br>Wednesday 12-9 - by appointment<br>Thursday
+  12-9 - by appointment<br>Friday 12-9 - Walk-ins<br>Saturday 12-9 - Walk-ins
 ---
-
-Tattooing for 7 years, Molly brings a variety of styles to the table. Offering clean linework, bright colors, soft black and grey, unique designs, and creativity. Wanting to start large scale pieces, but always happy to help with the smaller and medium sized tattoos as well.
+Tattooing for 7 years, Molly brings a variety of styles to the table. Offering clean line work, bright colors, soft black and grey, unique designs, and creativity. Wanting to start large scale pieces, but always happy to help with the smaller and medium sized tattoos as well.
