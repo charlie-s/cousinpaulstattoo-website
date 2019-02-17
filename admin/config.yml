@@ -13,6 +13,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Order", name: "order", widget: "number", min: 0, max: 99, default: 99, valueType: int }
+      - { label: "Body", name: "body", widget: "markdown"}
       - { label: "Artist Name", name: "title", widget: "string" }
       - { label: "Artist Title", name: "artist_title", widget: "string" }
       - { label: "Artist Image", name: "artist_image", widget: "image", required: false }
