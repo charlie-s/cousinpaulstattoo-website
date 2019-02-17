@@ -13,7 +13,7 @@ email: |-
   * [Email Wally](mailto:wallybtattoo@gmail.com)
 call: (314) 875-9075
 visit: |-
-  4530 Hampton Ave\
+  4530 Hampton Ave
   St. Louis, MO 63109
 header_img_class: contact
 layout: contact
