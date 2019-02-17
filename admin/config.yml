@@ -36,6 +36,8 @@ collections:
         file: 'about.md'
         fields:
           - { label: Title, name: title, widget: string }
+          - { label: Intro, name: intro, widget: markdown }
+          - { label: Quote, name: quote, widget: markdown }
 
       - label: 'Artists'
         name: 'artists'
@@ -48,6 +50,10 @@ collections:
         file: 'contact.md'
         fields:
           - { label: Title, name: title, widget: string }
+          - { label: Intro, name: intro, widget: markdown }
+          - { label: Email, name: email, widget: markdown }
+          - { label: Call, name: call, widget: markdown }
+          - { label: Visit, name: visit, widget: markdown }
 
       - label: 'FAQ'
         name: 'faq'
