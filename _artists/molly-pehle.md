@@ -20,6 +20,7 @@ portfolio_images:
   - portfolio_image: /asset/img/upload/img-0654.JPG
   - portfolio_image: /asset/img/upload/img-0655.JPG
   - portfolio_image: /asset/img/upload/img-0662.JPG
+email: mollypehle@gmail.com
 facebook: mollypoptattoo
 instagram: mollypehletattoo
 hours: |-
