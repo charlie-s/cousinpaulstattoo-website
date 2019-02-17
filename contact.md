@@ -6,11 +6,11 @@ intro: >-
   from 12-6pm. For a consultation, call the shop or an artist at the numbers
   listed below.
 email: |-
-  [CousinPaulsTattoo@gmail.com](mailto:CousinPaulsTattoo@gmail.com)
-  [Email Laura](mailto:boraboralaura@ymail.com)
-  [Email Jeremy](mailto:jlambert314@gmail.com)
-  [Email Molly](mailto:mollypehletattooer@gmail.com)
-  [Email Wally](mailto:wallybtattoo@gmail.com)
+  * <mailto:CousinPaulsTattoo@gmail.com>
+  * [Email Laura](mailto:boraboralaura@ymail.com)
+  * [Email Jeremy](mailto:jlambert314@gmail.com)
+  * [Email Molly](mailto:mollypehletattooer@gmail.com)
+  * [Email Wally](mailto:wallybtattoo@gmail.com)
 call: (314) 875-9075
 visit: |-
   4530 Hampton Ave\
