@@ -29,12 +29,6 @@ collections:
 
   - label: 'Pages'
     name: 'pages'
-
-    fields:
-      - {label: "Header Img Class", name: "header_img_class", widget: "hidden", default: ""}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: ""}
-
     files:
 
       - label: 'About'
@@ -44,12 +38,18 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Intro, name: intro, widget: markdown }
           - { label: Quote, name: quote, widget: markdown }
+          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
 
       - label: 'Artists'
         name: 'artists'
         file: 'artists.md'
         fields:
           - { label: Title, name: title, widget: string }
+          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
 
       - label: 'Contact'
         name: 'contact'
@@ -60,6 +60,9 @@ collections:
           - { label: Email, name: email, widget: markdown }
           - { label: Call, name: call, widget: markdown }
           - { label: Visit, name: visit, widget: markdown }
+          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
 
       - label: 'FAQ'
         name: 'faq'
@@ -67,9 +70,15 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: FAQ, name: faq, widget: markdown }
+          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
 
       - label: 'Gallery'
         name: 'gallery'
         file: 'gallery.md'
         fields:
           - { label: Title, name: title, widget: string }
+          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }

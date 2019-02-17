@@ -1,4 +1,7 @@
 ---
+layout: contact
+permalink: "/contact"
+header_img_class: contact
 call: (314) 875-9075
 email: |-
   <mailto:CousinPaulsTattoo@gmail.com>\
@@ -16,4 +19,3 @@ visit: |-
   4530 Hampton Ave\
   St. Louis, MO 63109
 ---
-
