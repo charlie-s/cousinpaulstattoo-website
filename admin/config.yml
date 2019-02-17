@@ -1,84 +1,84 @@
 backend:
  name: git-gateway
 
-media_folder: 'asset/img/upload'
-public_folder: '/asset/img/upload'
+media_folder: "asset/img/upload"
+public_folder: "/asset/img/upload"
 
 collections:
 
-  - name: 'artists'
-    label: 'Artists'
-    folder: '_artists'
+  - name: "artists"
+    label: "Artists"
+    folder: "_artists"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
-      - { label: 'Order', name: 'order', widget: 'number', min: 0, max: 99, default: 99, valueType: int }
-      - { label: 'Artist Name', name: 'title', widget: 'string' }
-      - { label: 'Artist Title', name: 'artist_title', widget: 'string' }
-      - { label: 'Artist Image', name: 'artist_image', widget: 'image', required: false }
-      - label: 'Portfolio Images'
-        name: 'portfolio_images'
-        widget: 'list'
+      - { label: "Order", name: "order", widget: "number", min: 0, max: 99, default: 99, valueType: int }
+      - { label: "Artist Name", name: "title", widget: "string" }
+      - { label: "Artist Title", name: "artist_title", widget: "string" }
+      - { label: "Artist Image", name: "artist_image", widget: "image", required: false }
+      - label: "Portfolio Images"
+        name: "portfolio_images"
+        widget: "list"
         required: false
         field:
-          - { label: Portfolio Image, name: portfolio_image, widget: image, required: false }
-      - { label: 'Email', name: 'email', widget: 'string', required: false }
-      - { label: 'Facebook', name: 'facebook', widget: 'string', required: false }
-      - { label: 'Instagram', name: 'instagram', widget: 'string', required: false }
-      - { label: 'Hours', name: 'hours', widget: 'markdown', required: false }
+          - { label: "Portfolio Image", name: "portfolio_image", widget: "image", required: false }
+      - { label: "Email", name: "email", widget: "string", required: false }
+      - { label: "Facebook", name: "facebook", widget: "string", required: false }
+      - { label: "Instagram", name: "instagram", widget: "string", required: false }
+      - { label: "Hours", name: "hours", widget: "markdown", required: false }
 
-  - label: 'Pages'
-    name: 'pages'
+  - label: "Pages"
+    name: "pages"
     files:
 
-      - label: 'About'
-        name: 'about'
-        file: 'about.md'
+      - label: "About"
+        name: "about"
+        file: "about.md"
         fields:
+          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
           - { label: Title, name: title, widget: string }
           - { label: Intro, name: intro, widget: markdown }
           - { label: Quote, name: quote, widget: markdown }
+
+      - label: "Artists"
+        name: "artists"
+        file: "artists.md"
+        fields:
           - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
-
-      - label: 'Artists'
-        name: 'artists'
-        file: 'artists.md'
-        fields:
           - { label: Title, name: title, widget: string }
+
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
           - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
-
-      - label: 'Contact'
-        name: 'contact'
-        file: 'contact.md'
-        fields:
           - { label: Title, name: title, widget: string }
           - { label: Intro, name: intro, widget: markdown }
           - { label: Email, name: email, widget: markdown }
           - { label: Call, name: call, widget: markdown }
           - { label: Visit, name: visit, widget: markdown }
+
+      - label: "FAQ"
+        name: "faq"
+        file: "faq.md"
+        fields:
           - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
-
-      - label: 'FAQ'
-        name: 'faq'
-        file: 'faq.md'
-        fields:
           - { label: Title, name: title, widget: string }
           - { label: FAQ, name: faq, widget: markdown }
-          - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
-          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
-          - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
 
-      - label: 'Gallery'
-        name: 'gallery'
-        file: 'gallery.md'
+      - label: "Gallery"
+        name: "gallery"
+        file: "gallery.md"
         fields:
-          - { label: Title, name: title, widget: string }
           - { label: "Header Img Class", name: "header_img_class", widget: "hidden", default: "" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "" }
+          - { label: Title, name: title, widget: string }
