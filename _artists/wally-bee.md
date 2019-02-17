@@ -22,7 +22,7 @@ email: wallybtattoo@gmail.com
 facebook: Tattoos by Wally B
 instagram: wildboy_wallyb
 hours: |-
-  Friday 12-9 - Walk-ins
+  Friday 12-9 - Walk-ins\
   Saturday 12-9 - Walk-ins\
   Sunday 12-9\
   Monday 12-9
