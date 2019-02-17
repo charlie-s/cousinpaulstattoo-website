@@ -2,6 +2,7 @@
 order: 1
 title: Laura Bonfanti
 artist_title: Artist & Owner
+artist_image: /asset/img/upload/laura-head-shot.jpg
 portfolio_images:
   - portfolio_image: /asset/img/upload/barhill-sleeve-2.jpg
   - portfolio_image: /asset/img/upload/12985436_1566188810377656_8340205382768449450_n.jpg
