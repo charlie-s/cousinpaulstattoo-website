@@ -20,8 +20,7 @@ collections:
         name: "portfolio_images"
         widget: "list"
         required: false
-        field:
-          - { label: "Portfolio Image", name: "portfolio_image", widget: "image", required: false }
+        field: { label: "Portfolio Image", name: "portfolio_image", widget: "image" }
       - { label: "Email", name: "email", widget: "string", required: false }
       - { label: "Facebook", name: "facebook", widget: "string", required: false }
       - { label: "Instagram", name: "instagram", widget: "string", required: false }
