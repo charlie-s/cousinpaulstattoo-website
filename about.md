@@ -1,4 +1,7 @@
 ---
+layout: about
+permalink: "/"
+header_img_class: about
 title: Cousin Paul's Tattoo Co
 intro: >-
   What’s in a name? Our name embodies our shared vision for the kind of culture
@@ -23,4 +26,3 @@ quote: >-
   ideal is nurtured and can grow and spread to other creative arts in our
   neighborhood and city-wide.
 ---
-

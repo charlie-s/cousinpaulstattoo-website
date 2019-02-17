@@ -29,6 +29,12 @@ collections:
 
   - label: 'Pages'
     name: 'pages'
+
+    fields:
+      - {label: "Header Img Class", name: "header_img_class", widget: "hidden", default: ""}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: ""}
+
     files:
 
       - label: 'About'
