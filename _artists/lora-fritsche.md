@@ -21,7 +21,7 @@ portfolio_images:
   - /asset/img/upload/rocket.jpg
   - /asset/img/upload/saucerdesert.jpg
 email: lilmissloratattoo@gmail.com
-instagram: '@kingmollusk'
+instagram: kingmollusk
 hours: By appointment - email Lora to schedule
 ---
 Lora likes listening and talking about your ideas, tattooing, and karaoke way more than writing about herself.
