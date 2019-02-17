@@ -2,7 +2,7 @@
 order: 4
 title: Wally Bee
 artist_title: Artist
-artist_image: /asset/img/artist/wally-bee/wally.jpg
+artist_image: wally.jpg
 facebook: wallyb.slumerican
 instagram: wildboy_wallyb
 hours: |-
