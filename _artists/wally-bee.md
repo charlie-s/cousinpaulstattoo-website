@@ -19,7 +19,7 @@ portfolio_images:
   - portfolio_image: /asset/img/upload/img-0604.JPG
   - portfolio_image: /asset/img/upload/img-0606.JPG
 email: wallybtattoo@gmail.com
-facebook: Tattoos by Wally B
+facebook: wally.bee.509
 instagram: wildboy_wallyb
 hours: |-
   Friday 12-9 - Walk-ins\
