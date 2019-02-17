@@ -1,5 +1,5 @@
 ---
-title: About
+title: Cousin Paul's Tattoo Co
 permalink: "/"
 header_img_class: about
 ---
