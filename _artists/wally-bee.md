@@ -4,20 +4,20 @@ title: Wally Bee
 artist_title: Artist
 artist_image: /asset/img/upload/wally.jpg
 portfolio_images:
-  - portfolio_image: /asset/img/upload/img-0571.JPG
-  - portfolio_image: /asset/img/upload/img-0576.JPG
-  - portfolio_image: /asset/img/upload/img-0581.JPG
-  - portfolio_image: /asset/img/upload/img-0586.JPG
-  - portfolio_image: /asset/img/upload/img-0587.JPG
-  - portfolio_image: /asset/img/upload/img-0589.JPG
-  - portfolio_image: /asset/img/upload/img-0592.JPG
-  - portfolio_image: /asset/img/upload/img-0594.JPG
-  - portfolio_image: /asset/img/upload/img-0596.JPG
-  - portfolio_image: /asset/img/upload/img-0599.JPG
-  - portfolio_image: /asset/img/upload/img-0600.JPG
-  - portfolio_image: /asset/img/upload/img-0601.JPG
-  - portfolio_image: /asset/img/upload/img-0604.JPG
-  - portfolio_image: /asset/img/upload/img-0606.JPG
+  - /asset/img/upload/img-0571.JPG
+  - /asset/img/upload/img-0576.JPG
+  - /asset/img/upload/img-0581.JPG
+  - /asset/img/upload/img-0586.JPG
+  - /asset/img/upload/img-0587.JPG
+  - /asset/img/upload/img-0589.JPG
+  - /asset/img/upload/img-0592.JPG
+  - /asset/img/upload/img-0594.JPG
+  - /asset/img/upload/img-0596.JPG
+  - /asset/img/upload/img-0599.JPG
+  - /asset/img/upload/img-0600.JPG
+  - /asset/img/upload/img-0601.JPG
+  - /asset/img/upload/img-0604.JPG
+  - /asset/img/upload/img-0606.JPG
 email: wallybtattoo@gmail.com
 facebook: wally.bee.509
 instagram: wildboy_wallyb
