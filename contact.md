@@ -14,6 +14,7 @@ email: |-
   * [Email Jeremy](mailto:jlambert314@gmail.com)
   * [Email Molly](mailto:mollypehletattooer@gmail.com)
   * [Email Wally](mailto:wallybtattoo@gmail.com)
+  * [Email Lora](<mailto: lilmissloratattoo@gmail.com>)
 call: (314) 875-9075
 visit: |-
   4530 Hampton Ave
