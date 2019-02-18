@@ -22,9 +22,9 @@ email: wallybtattoo@gmail.com
 facebook: wally.bee.509
 instagram: wildboy_wallyb
 hours: |-
-  Friday 12-9 - Walk-ins\
-  Saturday 12-9 - Walk-ins\
-  Sunday (every other) 12-9 - Walk-ins\
+  Friday 12-9 - Walk-ins
+  Saturday 12-9 - Walk-ins
+  Sunday (every other) 12-9 - Walk-ins
   Monday - by appointment
 
   Calling ahead is recommended if you intend to see Wally for a walk-in
