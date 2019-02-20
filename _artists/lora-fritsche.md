@@ -18,4 +18,6 @@ email: lilmissloratattoo@gmail.com
 instagram: kingmollusk
 hours: Contact Lora for her availability
 ---
-Lora likes listening and talking about your ideas, tattooing, and karaoke way more than writing about herself.
+Lora was born and raised in St. Louis, MO.  From an early age she realized she loved to draw and any platform where she could be creative. She moved to Austin in ‘02 to attend school, majoring in Art Metals.  After she was done with school, she decided to apply her art training towards her true passion; tattooing. After moving from Austin, to Florida, to Colorado, Lora has landed back in St. Louis to be closer to family. 
+
+Lora has been tattooing solidly since 2013.  She enjoys tattooing plants, animals, mandalas, outer space, and anything linework focused. Reflections of her enthusiasm for travel and music can be seen in her work.  Lora has a weak spot for a good pun and a fascination with classic horror.  She's a great choice to commemorate your jokester at heart or to bring some monsters and gore into your life.
