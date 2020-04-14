@@ -1,7 +1,7 @@
 ---
 order: 4
 title: Allen Wilson
-artist_title: Piercer
+artist_title: Piercing Artist
 artist_image: /asset/img/upload/allen.jpg
 portfolio_images:
   - /asset/img/upload/14.jpg
