@@ -1,7 +1,7 @@
 ---
 order: 3
 title: Maddy Vetter
-artist_title: Artist
+artist_title: Tattoo Artist
 artist_image: /asset/img/upload/83682722_111441137088377_5918565952746407941_n.jpg
 portfolio_images:
   - /asset/img/upload/photo-oct-13-12-27-23-pm.jpg
