@@ -1,7 +1,7 @@
 ---
 order: 2
 title: Lora Fritsche
-artist_title: Artist
+artist_title: Tattoo Artist
 artist_image: /asset/img/upload/8498b82a-d58a-4c35-8c15-6aa28361b250.jpeg
 portfolio_images:
   - /asset/img/upload/82bda764-5d8f-4c6f-8028-983ca23e5aee.jpeg
