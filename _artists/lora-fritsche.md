@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 2
 title: Lora Fritsche
 artist_title: Artist
 artist_image: /asset/img/upload/8498b82a-d58a-4c35-8c15-6aa28361b250.jpeg
