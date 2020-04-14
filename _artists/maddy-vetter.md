@@ -13,4 +13,4 @@ hours: |-
 
   www.madelinetate.com
 ---
-Maddy joined Cousin Paul's team in 2019 with 2 years' experience.  Her black and grey, illustrative style is as sweet and quirky as she is!  Don't worry though, if you want to work with Maddy, but you're looking for something different she's open to other types of projects too.
+Maddy joined Cousin Paul's team in 2019 with 2 years' experience.  Her black and grey, illustrative style is as sweet and quirky as she is!  She's open to other types of project work too - so hit her up with your idea.
