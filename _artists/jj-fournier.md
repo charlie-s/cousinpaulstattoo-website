@@ -29,4 +29,4 @@ email: squigglybastard@gmail.com
 hours: Contact JJ directly to book time while they are in the St. Louis
   area!  Email or message at (573) 330-5993
 ---
-JJ has spent their time focusing on crafting large custom tattoos for their clientele. Drawn to Japanese and Classic Americana tattooing they've worked to incorporate their love of the golden age of illustration and norse mythology throughout their work. Collaboration is key and they thrive on working to bring your ideas to life.
+JJ has spent their time focusing on crafting large custom tattoos for their clientele. Drawn to Japanese and Classic Americana tattooing they've worked to incorporate their love of the golden age of illustration and Norse mythology throughout their work. Collaboration is key and they thrive on working to bring your ideas to life.
