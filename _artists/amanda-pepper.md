@@ -8,6 +8,22 @@ portfolio_images:
   - /asset/img/upload/cairn.jpg
   - /asset/img/upload/cactuscrystals.jpg
   - /asset/img/upload/catspirit.jpg
+  - /asset/img/upload/chicksandhens.jpg
+  - /asset/img/upload/crystalfeathers.jpg
+  - /asset/img/upload/cutebear.jpg
+  - /asset/img/upload/cutewalrus.jpg
+  - /asset/img/upload/flowerinamber.jpg
+  - /asset/img/upload/gingkoleaves.jpg
+  - /asset/img/upload/magpie.jpg
+  - /asset/img/upload/morninggloryabstract.jpg
+  - /asset/img/upload/panther.jpg
+  - /asset/img/upload/shepherdlillies.jpg
+  - /asset/img/upload/snowleopard.jpg
+  - /asset/img/upload/succulents.jpg
+  - /asset/img/upload/sunconyer.jpg
+  - /asset/img/upload/sunsetabstract.jpg
+  - /asset/img/upload/wildflowers.jpg
+  - /asset/img/upload/worldturtle.jpg
 email: bemycanvas@gmail.com
 hours: Amanda's books are currently closed.  Keep an eye on our website and her
   blog for more updates.  [bemycanvas.com](http://bemycanvas.com/)
