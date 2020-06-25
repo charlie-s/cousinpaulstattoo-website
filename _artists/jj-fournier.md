@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 6
 title: JJ Fournier
 artist_title: Guest Tattoo Artist
 artist_image: /asset/img/upload/jj-headshot.jpg
