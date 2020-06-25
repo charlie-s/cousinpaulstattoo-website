@@ -5,6 +5,7 @@ artist_title: Tattoo Artist
 artist_image: /asset/img/upload/biopic2.jpg
 portfolio_images:
   - /asset/img/upload/cactuscrystals.jpg
+  - /asset/img/upload/cairn.jpg
 email: bemycanvas@gmail.com
 hours: Amanda's books are currently closed.  Keep an eye on our website and her
   blog for more updates.  [bemycanvas.com](http://bemycanvas.com/)
