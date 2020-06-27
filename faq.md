@@ -83,7 +83,7 @@ faq: >-
   **Can my friend come with me?**
 
 
-  Friends may accompany you to your tattoo appointment, but we would prefer only one to two extra people at maximum. Any more than this and the artist’s area can become too crowded and this may be distracting for your artist. Please be respectful of other clients and the artists by not bringing a group of people with you.
+  Given the CDC recommendations regarding COVID-19, we are not currently allowing anyone other than those with appointments into the shop.  Certain special circumstances can be accommodated, but please notify your artist in advance.  
 
 
   **Does Cousin Paul’s offer piercings?**
