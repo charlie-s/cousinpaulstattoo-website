@@ -2,6 +2,30 @@
 layout: faq
 title: Frequently Asked Questions
 faq: >-
+  **Can my friend come with me?**
+
+
+  Given the CDC recommendations regarding COVID-19, we are not currently allowing anyone other than those with appointments into the shop.  Masks are required.  Certain special circumstances can be accommodated, but please notify your artist in advance.  
+
+
+  **Does Cousin Paul’s offer piercings?**
+
+
+  We do!  Please contact Allen Wilson at piercingsbyallen@gmail.com for an appointment time or with any questions you may have.  
+
+
+  **Is there an accessible entrance?** 
+
+
+  The main entrance is down a set of stairs.  However, it's important to us that we are accessible to all.  Please notify your artist in advance of your appointment and they will provide you accessible entrance instructions.  
+
+
+  **How do I make an appointment?**
+
+
+  If you have an artist in mind, contact them directly as each artist keeps their own schedule. If you have not selected an artist and would like us to recommend someone based on your design concept, please email us at the shop: cousinpaulstattoo@gmail.com
+
+
   **How much will my tattoo cost?**
 
 
@@ -17,13 +41,7 @@ faq: >-
   **Can I walk-in or do I need an appointment?**
 
 
-  A tattoo about the size of your hand can usually be done as a walk-in. Each artist has posted their walk-in availability on their portfolio page. Clients will be helped on a first-come, first-served basis during these times. If it’s not something that can be drawn and completed during the walk-in hours, your walk-in time can be spent consulting with your artist and making a future appointment. Best not to rush these things!
-
-
-  **How do I make an appointment?**
-
-
-  If you have an artist in mind, contact them directly as each artist keeps their own schedule. If you have not selected an artist and would like us to recommend someone based on your design concept, please email us at the shop: cousinpaulstattoo@gmail.com
+  Our artists all currently work by appointment only.  Email contacts can be found on the artists' pages or on the Contact page.  
 
 
   **I know I want a tattoo, but I don’t know what I want. What should I do?**
@@ -32,7 +50,7 @@ faq: >-
   Spend some time looking at tattoos online or browsing through the artist portfolios on our website. Even looking at images of things you enjoy may help spark inspiration. We recommend that you have an idea about what you want before you make a consultation with an artist. Artists can help by talking things out with you, but the more clearly you are able to describe what you want, the more quickly and easily your artist can create a custom design for you.
 
 
-  **Can I bring pictures of tattoos, or images I like, with me?**
+  **Can I send pictures of tattoos, or images I like?**
 
 
   Absolutely. Images of tattoos or subject matter that you like can help an artist get direction in designing a tattoo that you will love. We will generally not give you the exact tattoo that someone else has (the exceptions being logos, basic-font lettering, and things that have to be exactly the same), we are artists after all, and like to have a hand in designing a custom tattoo for you!
@@ -78,18 +96,6 @@ faq: >-
 
 
   Cousin Paul’s has a strict no children policy. The imagery and conversation in the tattoo shop may not be suitable for children. Also, no matter how well-behaved they may be, children can present a distraction to both you and your artist. If your sitter bailed, it’s best to call your artist and reschedule your appointment.
-
-
-  **Can my friend come with me?**
-
-
-  Given the CDC recommendations regarding COVID-19, we are not currently allowing anyone other than those with appointments into the shop.  Certain special circumstances can be accommodated, but please notify your artist in advance.  
-
-
-  **Does Cousin Paul’s offer piercings?**
-
-
-  We do!  Please contact Allen Wilson at piercingsbyallen@gmail.com for an appointment time or with any questions you may have.  
 
 
   **What do I do to take care of my tattoo?**
