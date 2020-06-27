@@ -4,9 +4,9 @@ layout: contact
 permalink: /contact
 title: Contact
 intro: We're located at Devonshire Avenue in the Hampshire Building, down the
-  stairs on the bottom floor.  Walk-ins are available on Fridays from 12-6 and
-  often on the weekend as well.  Call ahead for availability.  For a
-  consultation, call the shop or an artist at the numbers listed below.
+  stairs on the bottom floor.  Our artists are all working by appointment
+  only.  Please contact an artist directly to schedule, or the shop email to be
+  directed to someone who might be a good fit for your work.
 email: |-
   [Email the Shop](mailto:CousinPaulsTattoo@gmail.com)
 
