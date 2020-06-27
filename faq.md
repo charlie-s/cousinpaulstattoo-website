@@ -41,7 +41,7 @@ faq: >-
   **Can I walk-in or do I need an appointment?**
 
 
-  Our artists all currently work by appointment only.  Email contacts can be found on the artists' pages or on the Contact page.  
+  Our artists all currently work by appointment only.  Email contacts can be found on the Artists' pages or on the Contact page.  
 
 
   **I know I want a tattoo, but I don’t know what I want. What should I do?**
