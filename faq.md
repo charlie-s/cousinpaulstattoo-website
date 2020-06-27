@@ -50,7 +50,7 @@ faq: >-
   Spend some time looking at tattoos online or browsing through the artist portfolios on our website. Even looking at images of things you enjoy may help spark inspiration. We recommend that you have an idea about what you want before you make a consultation with an artist. Artists can help by talking things out with you, but the more clearly you are able to describe what you want, the more quickly and easily your artist can create a custom design for you.
 
 
-  **Can I send pictures of tattoos, or images I like?**
+  **Can I send pictures of tattoos or images I like?**
 
 
   Absolutely. Images of tattoos or subject matter that you like can help an artist get direction in designing a tattoo that you will love. We will generally not give you the exact tattoo that someone else has (the exceptions being logos, basic-font lettering, and things that have to be exactly the same), we are artists after all, and like to have a hand in designing a custom tattoo for you!
