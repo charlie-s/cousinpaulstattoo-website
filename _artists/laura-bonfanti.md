@@ -13,11 +13,9 @@ portfolio_images:
 email: boraboralaura@ymail.com
 instagram: bonfantidiraconteur
 hours: |-
-  Saturday 12-9 – by appointment
-  Monday 12-9 – by appointment
-  Tuesday 12-9 – by appointment
-  Friday 12-6 – walk-ins and consultations
-  Wed - Thur – special circumstances only
+  Contact Laura via email for her availability.
+
+  She typically schedule appointments on Mon, Tues, Fri, and Sat.
 ---
 Laura Bonfanti, a tattooer, and the owner of CPTC, was born in St. Louis City and graduated from CVPA High School, class of 1991 where she majored in visual art, and minored in photography, creative writing and silversmithing. She began tattooing in 1996 when she realized she could take her interests in visual art, cultural anthropology, healing arts, and body adornment and combine them into work as a tattooer. Her career began under the apprenticeship of R. Hammer Madison and ‘Tatu’ Tony DiPietro. near Daytona, FL. It was here that she earned the nickname “BoraBoraLaura”.
 
