@@ -8,12 +8,6 @@ faq: >-
   Given the CDC recommendations regarding COVID-19, we are not currently allowing anyone other than those with appointments into the shop.  Masks are required.  Certain special circumstances can be accommodated, but please notify your artist in advance.  
 
 
-  **Does Cousin Paul’s offer piercings?**
-
-
-  We do!  Please contact Allen Wilson at piercingsbyallen@gmail.com for an appointment time or with any questions you may have.  
-
-
   **Is there an accessible entrance?** 
 
 
@@ -24,6 +18,12 @@ faq: >-
 
 
   If you have an artist in mind, contact them directly as each artist keeps their own schedule. If you have not selected an artist and would like us to recommend someone based on your design concept, please email us at the shop: cousinpaulstattoo@gmail.com
+
+
+  **Does Cousin Paul’s offer piercings?**
+
+
+  We don't currently offer piercing, but we are on the look out for a reliable piercer.  Keep an eye on our website and social media pages for updates!  
 
 
   **How much will my tattoo cost?**
