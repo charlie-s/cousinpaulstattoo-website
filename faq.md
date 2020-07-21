@@ -23,7 +23,7 @@ faq: >-
   **Does Cousin Paul’s offer piercings?**
 
 
-  We don't currently offer piercing, but we are on the look out for a reliable piercer.  Keep an eye on our website and social media pages for updates!  
+  We don't currently offer piercing, but we are on the look out for a solid piercer.  Keep an eye on our website and social media pages for updates!  
 
 
   **How much will my tattoo cost?**
