@@ -16,8 +16,6 @@ email: |-
 
   [Email Maddy](mtvtattoos@gmail.com)
 
-  [Email Allen](piercingsbyallen@gmail.com)
-
   [Amanda's Blog](www.bemycanvas.com)
 call: (314) 875-9075
 visit: |-
