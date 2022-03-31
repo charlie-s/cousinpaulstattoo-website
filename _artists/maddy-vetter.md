@@ -26,8 +26,10 @@ portfolio_images:
 email: mtvtattoos@gmail.com
 facebook: ""
 instagram: "@mtvmaddy"
-hours: |-
-  Contact Maddy via email for her availability. 
+hours: >-
+  Maddy's books are closed - follow her on Instagram and her website for
+  updates. 
+
 
   www.madelinetate.com
 ---
