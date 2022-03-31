@@ -31,4 +31,4 @@ hours: |-
 
   www.madelinetate.com
 ---
-Maddy is a St. Louis hometown gal.  She began tattooing in 2016 and quickly fell in love with the illustrative blackwork style she now specializes in. She has made a name for herself with her floral work, dark motifs, and detail-oriented pieces.  Maddy joined Cousin Paul's in 2019 works by appointment only.  She's open to other styles as well, so hit her up with your idea!
+Maddy is a St. Louis hometown gal.  She began tattooing in 2016 and quickly fell in love with the illustrative blackwork style she now specializes in. She has made a name for herself with her floral work, dark motifs, and detail-oriented pieces.  Maddy joined Cousin Paul's in 2019 and works by appointment only.  Her books are currently closed.  When her books are opened, she'll announce it on her Instagram and her website, so be sure to follow her there.
