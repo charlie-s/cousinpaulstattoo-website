@@ -1,6 +1,6 @@
 ---
 order: 99
-title: Natalie Pieber
+title: Natalie Schneider
 artist_title: Tattoo Artist
 artist_image: /asset/img/upload/unnamed-1.jpg
 portfolio_images:
