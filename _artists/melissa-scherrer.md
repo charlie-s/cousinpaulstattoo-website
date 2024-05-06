@@ -4,6 +4,15 @@ title: Melissa Scherrer
 artist_title: "Tattoo Artist"
 artist_image: /asset/img/upload/img_20220323_101127_3.jpg
 portfolio_images:
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 01.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 02.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 03.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 04.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 05.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 06.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 07.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 08.jpg
+  - /asset/img/upload/2024-05-06/Melissa Scherrer/Melissa Scherrer 09.jpg
   - /asset/img/upload/img_20220314_165253_860.jpg
   - /asset/img/upload/img_20220218_195052_602.jpg
   - /asset/img/upload/img_20220211_180156_449.jpg
