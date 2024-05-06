@@ -12,9 +12,9 @@ email: |-
 
   [Email Laura](mailto:boraboralaura@ymail.com)
 
-  [Email Lora](<mailto: lilmissloratattoo@gmail.com>)
+  [Email Lora](mailto:lilmissloratattoo@gmail.com)
 
-  [Email Maddy](mtvtattoos@gmail.com)
+  [Email Maddy](mailto:mtvtattoos@gmail.com)
 
   [Amanda's Blog](www.bemycanvas.com)
 call: (314) 875-9075
