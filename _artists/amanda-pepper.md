@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 4
 title: Amanda Pepper
 artist_title: Tattoo Artist
 artist_image: /asset/img/upload/biopic2.jpg

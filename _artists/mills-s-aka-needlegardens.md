@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 2
 title: Mills S. (aka Needlegardens)
 artist_title: Tattoo Artist
 artist_image: /asset/img/upload/mills-cropped.jpg

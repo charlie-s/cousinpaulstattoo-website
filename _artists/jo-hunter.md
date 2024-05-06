@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 6
 title: Jo Hunter
 artist_title: Tattoo Artist
 artist_image: /asset/img/upload/2024-05-06/Jo Hunter/Jo Hunter - thumb.jpg
