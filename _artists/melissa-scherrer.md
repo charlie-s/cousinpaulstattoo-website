@@ -1,7 +1,7 @@
 ---
 order: 99
 title: Melissa Scherrer
-artist_title: "Tattoo Apprentice "
+artist_title: "Tattoo Artist"
 artist_image: /asset/img/upload/img_20220323_101127_3.jpg
 portfolio_images:
   - /asset/img/upload/img_20220314_165253_860.jpg
