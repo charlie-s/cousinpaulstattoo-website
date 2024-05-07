@@ -2,7 +2,7 @@
 order: 2
 title: Mills S. (aka Needlegardens)
 artist_title: Tattoo Artist
-artist_image: - /asset/img/upload/2024-05-06/Mills S/Mills S - thumb.jpg
+artist_image: /asset/img/upload/2024-05-06/Mills S/Mills S - thumb.jpg
 portfolio_images:
   - /asset/img/upload/2024-05-06/Mills S/Mills S 01.jpg
   - /asset/img/upload/2024-05-06/Mills S/Mills S 02.jpg
